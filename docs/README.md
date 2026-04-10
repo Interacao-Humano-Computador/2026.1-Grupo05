@@ -5,13 +5,9 @@ Repositório de documentação do "Grupo 05" na Disciplina de Interação Humano
 
 ## Equipe
 
-| Matrícula | Nome |
-| :---: | :--- |
-| 241025176 | Arthur Mezzaroba Scartezini |
-| 222006276 | Luis Gustavo Lopes Oliveira |
-| 222025932 | Mariana Martins Silva |
-| 241025990 | Pedro Henrique Ferreira Xavier |
-| 202043281 | Samuel de Souza Leite|
+|<img src="assets/arthur.png" width="150"> | <img src="assets/luis.png" width="150"> | <img src="assets/Mariana.png" width="150"> | <img src="assets/pedro.png" width="150"> | <img src="assets/samuel.png" width="150"> |
+| :---: | :---: | :---: | :---: | :---: |
+| **ARTHUR MEZZAROBA SCARTEZINI** | **LUIS GUSTAVO LOPES OLIVEIRA** | **MARIANA MARTINS SILVA** | **PEDRO HENRIQUE FERREIRA XAVIER** | **SAMUEL DE SOUZA LEITE** |
 
 ## Acesso à Documentação
 

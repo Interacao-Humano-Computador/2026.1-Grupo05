@@ -1,8 +1,5 @@
 * **Home**
   * [Início](README.md)
-    * [- Sobre o Projeto](sobre.md)
-    * [- Equipe](equipe.md)
-    * [- Acesso à Documentação](planejamento.md)
 
 * **Planejamento**
   * [HeatMap](heatmap.md)
