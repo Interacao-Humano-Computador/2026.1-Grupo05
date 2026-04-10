@@ -1,15 +1,15 @@
 * **Home**
   * [Início](README.md)
-
+  
 * **Planejamento**
-  * [HeatMap](heatmap.md)
-  * [Análise de Sites](analise-sites.md)
-    * [- Site Selecionado](site-selecionado.md)
-    * [- Público-Alvo](publico-alvo.md)
-  * [Ferramentas](instrucoes.md)
-  * [Processo de Design](processo-design.md)
-  * [Cronograma](cronograma.md)
+  * [HeatMap](_heatmap.md)
+  * [Análise de Sites](_analiseSites.md)
+    * [- Site Selecionado](_siteSelecionado.md)
+    * [- Público-Alvo](_publicoAlvo.md)
+  * [Ferramentas](_ferramentas.md)
+  * [Processo de Design](_processoDesign.md)
+  * [Cronograma](_cronograma.md)
 
 * **Registros**
-  * [Atas de Reunião](atas.md)
-  * [Histórico de Versões](historico.md)
+  * [Atas de Reunião](_atas.md)
+  * [Histórico de Versões](_historico.md)

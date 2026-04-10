@@ -18,11 +18,11 @@ A geração do site estático é realizada utilizando o docsify.
 
 Execute o comando no seu terminal para instalar a ferramenta globalmente:
 
---> npm i docsify-cli -g
+> npm i docsify-cli -g
 
 Para visualizar localmente, utilize o comando:
 
---> docsify serve ./docs
+> docsify serve ./docs
 
 ### Histórico de Versões
 
