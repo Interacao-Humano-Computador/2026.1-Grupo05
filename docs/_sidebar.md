@@ -2,7 +2,7 @@
   * [Início](README.md)
   
 * **Planejamento**
-  * [HeatMap](_heatmap.md)
+  * [HeatMap](planejamento_projeto/_heatmap.md)
   * [Análise de Sites](_analiseSites.md)
     * [- Site Selecionado](_siteSelecionado.md)
     * [- Público-Alvo](_publicoAlvo.md)
