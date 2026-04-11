@@ -22,8 +22,15 @@ Os melhores horários para as reuniões em grupo foram definidos em:
 Referência: 
 BARROS, Andre. Ambientacao. Brasília: UnB, 2026. Disponível em: https://aprender3.unb.br/. Acesso em: 9 abr. 2026.
 
+## Contribuidores
+
+| Nome do Contribuidor |
+| :--- |
+| [Mariana Martins](https://github.com/Marianamrts) |
+| [Samuel Leite](https://github.com/osamuelleite) |
+
 ## Histórico de Versão
 
 | Versão | Data | Descrição | Autor | Revisor| 
 | :---: | :---: | :--- | :--- | :--- |
-| **1.0** | 09/04/2026 | Criação e Inserção da página "Heatmap" | Mariana Martins | [---] |
+| **1.0** | 09/04/2026 | Criação e Inserção da página "Heatmap" | Mariana Martins | [Samuel Leite] |
