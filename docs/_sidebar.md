@@ -9,6 +9,7 @@
   * [Ferramentas](_ferramentas.md)
   * [Processo de Design](_processoDesign.md)
   * [Cronograma](_cronograma.md)
+  * [Planejamento do Projeto](planejamento_projeto/_planejamentoProjeto.md)
 
 * **Registros**
   * [Atas de Reunião](_atas.md)
