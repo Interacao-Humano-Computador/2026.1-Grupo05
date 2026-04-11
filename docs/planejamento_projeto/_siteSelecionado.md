@@ -5,6 +5,9 @@
 ## Introdução
 Para a definição do objeto de estudo deste projeto, a equipe realizou um levantamento de diversos portais, analisando os pontos que serão detalhados adiante para fundamentar a decisão pelo site escolhido.
 
+![Tela de seleção de serviços do Agenda DF](pagina_inicial.png)
+<p align="center"><em>Figura 1: Interface de seleção de serviços da SES-DF (Fonte: Agendamento Distrito Federal, 2026).</em></p>
+
 ## Objetivo
 Este artefato tem como finalidade descrever a plataforma selecionada e apresentar as justificativas que motivaram essa escolha.
 
@@ -23,7 +26,7 @@ A principal motivação para a escolha se deve aos problemas de interação e in
 ## Site Selecionado
 Inicialmente, o grupo considerou outras plataformas de serviços públicos, porém, ao avaliarmos a importância do atendimento especializado, optou-se pelo portal de **Agendamento Eletrônico dos Exames de Curva Glicêmica para Gestantes**. Trata-se de um sistema do Governo do Distrito Federal focado em organizar a demanda por exames laboratoriais essenciais durante o pré-natal.
 
-O sistema (Imagem 1) tem como propósito principal facilitar o acesso das cidadãs à marcação de exames de forma remota. Entre suas funcionalidades, destacam-se a escolha de locais de atendimento, consulta de horários disponíveis e orientações sobre os pré-requisitos para a realização do exame de glicemia.
+O sistema (Figura 1) tem como propósito principal facilitar o acesso das pessoas à marcação de exames remotamente. Assim, Dentre suas funcionalidades, destacam-se a escolha de locais de atendimento, consulta de horários disponíveis e orientações sobre os pré-requisitos para a realização do exame de glicemia.
 
 Após a definição do site, a equipe realizou uma inspeção preliminar e elencou os seguintes pontos:
 
