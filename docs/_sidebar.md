@@ -13,9 +13,8 @@
   * [Planejamento do Projeto](planejamento_projeto/_planejamentoProjeto.md)
 
 * **Registros**
-  * [Atas de Reunião](_atas.md)
-    * [Ata de reunião 1](atas/ata1.md)
-    * [Ata de reunião 2](atas/ata2.md)
-    * [Ata de reunião 3](atas/ata3.md)
-    * [Ata de reunião 4](atas/ata4.md)
+  * [Ata de reunião 1](atas/ata1.md)
+  * [Ata de reunião 2](atas/ata2.md)
+  * [Ata de reunião 3](atas/ata3.md)
+  * [Ata de reunião 4](atas/ata4.md)
   * [Histórico de Versões](_historico.md)
