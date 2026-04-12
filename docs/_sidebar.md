@@ -6,7 +6,6 @@
   * [Análise de Sites](planejamento_projeto/_analiseSites.md)
     * [- Sites avaliados](planejamento_projeto/_listaSitesAvaliados.md)
     * [- Site Selecionado](planejamento_projeto/_siteSelecionado.md)
-    * [- Público-Alvo](planejamento_projeto/_publicoAlvo.md)
   * [Ferramentas](planejamento_projeto/_ferramentas.md)
   * [Processo de Design](planejamento_projeto/_processoDesign.md)
   * [Cronograma](planejamento_projeto/_cronograma.md)
