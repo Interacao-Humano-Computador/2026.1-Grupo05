@@ -4,6 +4,7 @@
 * **Planejamento**
   * [HeatMap](planejamento_projeto/_heatmap.md)
   * [Análise de Sites](planejamento_projeto/_analiseSites.md)
+    * [- Sites avaliados](planejamento_projeto/_listaSitesAvaliados.md)
     * [- Site Selecionado](planejamento_projeto/_siteSelecionado.md)
     * [- Público-Alvo](planejamento_projeto/_publicoAlvo.md)
   * [Ferramentas](planejamento_projeto/_ferramentas.md)

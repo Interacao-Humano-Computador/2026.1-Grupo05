@@ -130,6 +130,6 @@ Após a inspeção, os dados serão avaliados e validados da seguinte forma:
 
 ## Histórico de Versões
 
-| Data | Versão | Descrição | Autor(es) | Data de revisão | Revisor(es) |
-|------|--------|-----------|-----------|-----------------|-------------|
-| 11/04/2026 | `1.0` | Criação do plano de avaliação | Luís Gustavo Lopes Oliveira | — | Pedro Henrique |
+| Data | Versão | Descrição | Autor | Revisor |
+|------|--------|-----------|-----------|-------------|
+| 11/04/2026 | `1.0` | Criação do plano de avaliação | Luís Gustavo | Pedro Henrique|
