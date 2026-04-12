@@ -199,3 +199,16 @@ O presente cronograma organiza as atividades do Grupo 05 na matéria de Interaç
 BARROS, André Sales. Exemplo de Conograma. Brasília: UnB, 2026. Disponível em: [Aprender3](https://aprender3.unb.br/pluginfile.php/3335958/mod_resource/content/2/Exemplo%20de%20Cronograma.pdf). Acesso em: 10 abr. 2026.
 
 BARROS, André Sales. Plano de Ensino. Brasília: UnB, 2026. Disponível em: [Aprender3](https://aprender3.unb.br/pluginfile.php/3335948/mod_resource/content/61/Plano_de_Ensino%20FIHC%20012026%20Turma%2003%20v2.pdf). Acesso em: 10 abr. 2026.
+
+## Contribuidores
+
+| Nome do Contribuidor |
+| :--- |
+| [Mariana Martins](https://github.com/Marianamrts) |
+| [Samuel Leite](https://github.com/osamuelleite) |
+
+## Histórico de Versões
+
+| Data | Versão | Descrição | Autor | Revisor |
+| :--- | :--- | :--- | :--- | :--- |
+| 11/04/2026 | 1.0 | Elaboração do artefato Cronograma | Mariana Martins | Samuel Leite |
