@@ -36,4 +36,4 @@ BARROS, Andre. Ambientacao. Brasília: UnB, 2026. Disponível em: https://aprend
 
 | Versão | Data | Descrição | Autor | Revisor| 
 | :---: | :---: | :--- | :--- | :--- |
-| **1.0** | 09/04/2026 | Criação e Inserção da página "Heatmap" | Mariana Martins | [Samuel Leite] |
+| **1.0** | 09/04/2026 | Criação e Inserção da página "Heatmap" | Mariana Martins | Samuel Leite |

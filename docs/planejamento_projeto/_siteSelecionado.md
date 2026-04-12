@@ -5,9 +5,9 @@
 ## Introdução
 Para a definição do objeto de estudo deste projeto, a equipe realizou um levantamento de diversos portais, analisando os pontos que serão detalhados adiante para fundamentar a decisão pelo site escolhido.
 
-![Tela de seleção de serviços do Agenda DF](pagina_inicial.png)
+![Tela de seleção de serviços do Agenda DF](../assets/pagina_inicial.png)
 
-<p align="center"><em>Figura 1: Interface de seleção de serviços da SES-DF (Fonte: Agendamento Distrito Federal, 2026).</em></p>
+<p align="center"><em>Figura 1: Interface de seleção de serviços da SES-DF (Fonte: agenda.df.gov.br, 2026).</em></p>
 
 ## Objetivo
 Este artefato tem como finalidade descrever a plataforma selecionada e apresentar as justificativas que motivaram essa escolha.
@@ -24,9 +24,19 @@ Em reunião, os integrantes do grupo definiram a escolha do site com base nos re
 ## Motivação da escolha
 A principal motivação para a escolha se deve aos problemas de interação e interface identificados. Pois, por ser um serviço essencial voltado a um público sensível, composto por gestantes, a interface deveria priorizar a redução da carga cognitiva e a prevenção de erros. Porém, a plataforma não apresenta uma navegação muito intuitiva além de uma hierarquia visual ineficiente, o que o torna ideal para a aplicação das técnicas de IHC. Dessa forma, O grupo busca diagnosticar esses problemas propor soluções que tornem o agendamento mais intuitivo e acessível.
 
+![heurísticas de Nielsen](../assets/heuristica.png)
+
+<p align="center"><em>Figura 2: Heurísticas de Nielsen (Fonte: Nielsen, 1994).</em></p>
+
 ## Site Selecionado
 Inicialmente, o grupo considerou outras plataformas de serviços públicos, porém, ao avaliarmos a importância do atendimento especializado, optou-se pelo portal de **Agendamento Eletrônico dos Exames de Curva Glicêmica para Gestantes**. Trata-se de um sistema do Governo do Distrito Federal focado em organizar a demanda por exames laboratoriais essenciais durante o pré-natal.
+<br>
 
+![Sistema de agendamento e organização de exames](../assets/servico_agenda.png)
+
+<p align="center"><em>Figura 3: Serviço de agendamento e organização de exames (fonte: agenda.df.gov.br, 2026).</em></p>
+
+<br>
 O sistema (Figura 1) tem como propósito principal facilitar o acesso das pessoas à marcação de exames remotamente. Assim, Dentre suas funcionalidades, destacam-se a escolha de locais de atendimento, consulta de horários disponíveis e orientações sobre os pré-requisitos para a realização do exame de glicemia.
 
 Após a definição do site, a equipe realizou uma inspeção preliminar e elencou os seguintes pontos:
@@ -51,6 +61,8 @@ Para uma compreensão aprofundada das falhas de interface, a análise heurístic
 [2] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
 Interação Humano-Computador e Experiência do usuário. Autopublicação.
 
+[3] MACIEL, C.; NOGUEIRA, J. L. T.; CIUFFO, L. N.; GARCIA, A. C. B. Avaliação Heurística de Sítios na Web. Niterói: Instituto de Computação, Universidade Federal Fluminense (UFF), [2004]. Disponível em: <https://marcelohsantos.com/aulas/include/2022-1/projeto_Interface_Usuario/Aula7_artigo.pdf>. Acesso em: 12 abr. 2026.
+
 
 ## Contribuidores
 
@@ -64,3 +76,4 @@ Interação Humano-Computador e Experiência do usuário. Autopublicação.
 | Data | Versão | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
 | 11/04/2026 | 1.0 | Elaboração do artefato de seleção do site | Pedro | Samuel |
+| 12/04/2026 | 1.1 | Revisão e ajustes  | Pedro Henrique | Samuel Leite|
