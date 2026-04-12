@@ -6,7 +6,7 @@ O presente cronograma organiza as atividades do Grupo 05 na matéria de Interaç
 
 ## Cronograma por Atividades e Datas de Entregas Gerais
 
-*Tabela 2: Cronograma Geral*
+*Tabela 1: Cronograma Geral*
 
 |Etapa | Atividade| Entrega | Apresentação
 | :--- | :--- | :--- | :---: |
