@@ -212,3 +212,4 @@ BARROS, André Sales. Plano de Ensino. Brasília: UnB, 2026. Disponível em: [Ap
 | Data | Versão | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
 | 11/04/2026 | 1.0 | Elaboração do artefato Cronograma | Mariana Martins | Samuel Leite |
+| 12/04/2026 | 1.1 | Finalização do Cronograma | Mariana Martins | Arthur Mezarroba |
