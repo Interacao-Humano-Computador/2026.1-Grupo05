@@ -8,7 +8,7 @@
     * [- Público-Alvo](_publicoAlvo.md)
   * [Ferramentas](_ferramentas.md)
   * [Processo de Design](_processoDesign.md)
-  * [Cronograma](_cronograma.md)
+  * [Cronograma](planejamento_projeto/_cronograma.md)
 
 * **Registros**
   * [Atas de Reunião](_atas.md)
