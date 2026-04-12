@@ -1,7 +1,12 @@
-# Documentação de IHC
+# Agenda DF (Exame de curva Glicêmica)
+
+<img width="454" height="300" alt="agenda" src="https://github.com/user-attachments/assets/650803e4-bcd9-40aa-8d35-c45934563d0b" />
+
+Figura 1: Logo Agenda DF (Fonte: [AgendaDF](https://agenda.df.gov.br/index.html))
 
 ## Sobre o Projeto
 Repositório de documentação do "Grupo 05" na Disciplina de Interação Humano Computador - FGA0173, ministrada pelo Prof. Dr. Andre Barros de Sales em 2026.1 na Universidade de Brasília.
+Este repositório é dedicado a avaliação do site "Agenda.df.gov.br" especificamente em "Exame de curva glicêmica e Gestantes (24 a 28 semanas) e não gestantes". O nosso objetivo principal com esse trabalho é buscar por problemas no site que atrapalham a jornada de um usuário, além da usabilidade que pode resultar em violações dos princípios da Interação Humano Computador.
 
 ## Equipe
 
@@ -28,4 +33,4 @@ Para visualizar localmente, utilize o comando:
 
 | Data | Versão | Descrição | Autor | Revisor |
 | :---: | :---: | :--- | :--- | :--- |
-| 009/04/2026 | 1.0 | Criação do repositório e estrutura Docsify | Mariana Martins | [---------] |
+| 09/04/2026 | 1.0 | Criação do repositório e estrutura Docsify | Mariana Martins | Arthur Mezzaroba |
