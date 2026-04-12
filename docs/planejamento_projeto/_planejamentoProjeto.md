@@ -1,4 +1,16 @@
-# Planejamento do Projeto – Agendamento Eletrônico de Exame de Curva Glicêmica para Gestantes
+# Planejamento do Projeto – Agendamento Eletrônico de Exame de Curva Glicêmica para Gestantes - 24 a 28 semanas de gestação
+
+## Introdução
+
+Este documento apresenta o planejamento da avaliação heurística da 
+funcionalidade de Agendamento Eletrônico dos Exames de Curva Glicêmica 
+para Gestantes – 24 a 28 semanas de gestação, disponível no portal 
+Agenda DF (agenda.df.gov.br), serviço vinculado à Secretaria de Estado 
+de Saúde do Distrito Federal. O planejamento foi elaborado seguindo o 
+framework DECIDE (BARBOSA et al., 2021), que orienta o avaliador na 
+definição dos objetivos, na escolha do método, na identificação das 
+questões práticas e éticas e na forma de avaliação e apresentação dos 
+dados.
 
 ## 1. Domínio
 

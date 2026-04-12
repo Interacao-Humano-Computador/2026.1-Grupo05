@@ -44,7 +44,7 @@ O presente cronograma organiza as atividades do Grupo 05 na matéria de Interaç
 |15 | Texto de introdução ao Artefato | 10/05 | 12/05 | Luis | Pedro|
 |16 | Criação do Cronograma Executado | 01/06 | 01/06 | Samuel | Mariana |
 |17 | Tabela de Contribuição no Início dos Artefatos | 10/05 | 12/05 | Pedro | Samuel |
-|18 | Seção de Agardecimentos | 10/05 | 12/05 | Mariana | Arthur |
+|18 | Seção de Agradecimentos | 10/05 | 12/05 | Mariana | Arthur |
 
 
 **Fonte:** Aprender 3 UnB (2026).
