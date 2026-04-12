@@ -6,6 +6,7 @@
 Para a definição do objeto de estudo deste projeto, a equipe realizou um levantamento de diversos portais, analisando os pontos que serão detalhados adiante para fundamentar a decisão pelo site escolhido.
 
 ![Tela de seleção de serviços do Agenda DF](pagina_inicial.png)
+
 <p align="center"><em>Figura 1: Interface de seleção de serviços da SES-DF (Fonte: Agendamento Distrito Federal, 2026).</em></p>
 
 ## Objetivo
