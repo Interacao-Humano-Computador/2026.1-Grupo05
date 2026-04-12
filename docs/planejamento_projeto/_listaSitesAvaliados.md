@@ -12,7 +12,7 @@ Abaixo estão listados os sites analisados individualmente pelos membros do grup
 | Luís Oliveira | Portal Meu INSS | [Link](https://meu.inss.gov.br/)  | Identificamos opções melhores e o sistema não atende ao nível de complexidade exigido pelos objetivos da disciplina. |
 | Mariana Martins | Portal Gov.br | [Link](https://www.gov.br/pt-br) | A funcionalidade "emissão da CIN" não apresentava funcionalidade ou caminho coerente com a proposta da disciplina. |
 | Pedro Henrique | Neoenergia - Brasília | [Link](https://agenda.df.gov.br/organizacao.html;jsessionid=hTymEEK9xdDHMzBoKDrADxNqwCNTskjnS509kJdu.000suticsv112?organizacao=45462780) | O site escolhido para avaliação já tinha sido alvo de estudo de grupos em semestres anteriores. |
-| Samuel Leite | [Site 05] | [Link](https://www.gov.br/icmbio/pt-br) |  |
+| Samuel Leite | Portal Gov.br (ICMbio) | [Link](https://www.gov.br/icmbio/pt-br) | O agendamento dos passeios de ecoturismo é feito dentro do site do Gov, que já apresenta boas diretrizes de acessibilidade, e não é um site com tantos problemas apresentados. |
 
 ## 3. Critérios utilizados
 Em reunião, os integrantes do grupo definiram a escolha do site com base nos requisitos listados abaixo:
