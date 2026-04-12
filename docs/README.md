@@ -34,3 +34,4 @@ Para visualizar localmente, utilize o comando:
 | Data | Versão | Descrição | Autor | Revisor |
 | :---: | :---: | :--- | :--- | :--- |
 | 09/04/2026 | 1.0 | Criação do repositório e estrutura Docsify | Mariana Martins | Arthur Mezzaroba |
+| 11/04/2026 | 1.1 | Adição da descrição e logo | Mariana Martins | Pedro Henrique |
