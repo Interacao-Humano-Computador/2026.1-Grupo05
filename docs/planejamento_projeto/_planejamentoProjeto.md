@@ -121,8 +121,15 @@ Após a inspeção, os dados serão avaliados e validados da seguinte forma:
 > em: https://agenda.df.gov.br/posto.html?servico=53957031.
 > Acesso em: 11/04/2026.
 
+## Contribuidores
+
+| Nome do Contribuidor |
+| :--- |
+| [Pedro Henrique](https://github.com/PedroGTG) |
+| [Luís Gustavo](https://github.com/Luiskr34) |
+
 ## Histórico de Versões
 
 | Data | Versão | Descrição | Autor | Revisor |
 |------|--------|-----------|-----------|-------------|
-| 11/04/2026 | `1.0` | Criação do plano de avaliação | Luís Gustavo | Pedro |
+| 11/04/2026 | `1.0` | Criação do plano de avaliação | Luís Gustavo | Pedro Henrique|
