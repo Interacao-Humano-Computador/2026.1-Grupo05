@@ -2,8 +2,6 @@
 
 ## Introdução
 
-O presente cronograma organiza as atividades do Grupo 05 na matéria de Interação Humano Computador, para o semestre 2026.1, fundamentando-se nas diretrizes estabelecidas pelo Professor: André Barros de sales. A estrutura divide-se em: (1) Cronograma Geral, focado em marcos e prazos; e (2) Tabelas Específicas, que designam responsáveis e revisores para cada tarefa, visando o monitoramento e a execução eficiente do projeto.
-
 ## Cronograma por Atividades e Datas de Entregas Gerais
 
 *Tabela 2: Cronograma Geral*
