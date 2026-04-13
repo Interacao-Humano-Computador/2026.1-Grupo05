@@ -186,8 +186,7 @@ usurio realize suas tarefas e alcance seus objetivos.
     - **Recomendação:** inserir botão de ajuda em partes/elementos específicos ao longo da jornada de tarefa do usuário. Detalhar melhor a documentação de uso.
 
 
-<img src="../assets/image-9.png" alt="Alerta Preencha esse campo" width="50%">
-<img src="../assets/image.png" alt="Barra superior" width="50%">
+
 
 
 # Consolidação de resultado
