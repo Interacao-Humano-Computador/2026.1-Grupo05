@@ -27,77 +27,176 @@ Avaliação Heurística do site de agendamento exame de curva glicêmica para Ge
 1. **Caminho da Interação** Selecionado Para a avaliação, o avaliador percorrerá o seguinte caminho de interação:
     1. Acesso ao site do Agenda DF (https://agenda.df.gov.br/index.html). E buscar nos quadros disponíveis o quadro correspondente à "Secretaria de Estado de Saúde do Distrito Federal SES-DF".
         <div>
-            <img src="image-1.png" alt="Tela principal do AgendaDF" width="50%">
-            <img src="image-2.png" alt="ícone SES-DF" width="50%">
+            <img src="image-1.png" alt="Tela principal do AgendaDF" width="30%">
+            <img src="image-2.png" alt="ícone SES-DF" width="20%">
         </div>
 
     2. Fazer o Login com a conta GOV.BR. 
+    
     3. Acessar “Exame de curva glicêmica - Gestantes (24 a 28 semanas) e Não Gestantes” no quadro de serviços.
         <div>
-            <img src="image-3.png" alt="Quadro de serviços SES-DF" width="50%">
+            <img src="image-3.png" alt="Quadro de serviços SES-DF" width="20%">
         </div>
     4. Selecionar a unidade de atendimento "Laboratório Regional de Ceilândia".
     
-    <img src="image-4.png" alt="Unidade de atendimento" width="50%">
+    <img src="image-4.png" alt="Unidade de atendimento" width="20%">
+
     5. Selecionar a Data disponível de acordo com o calendário exibido na tela.
     
     <img src="image-5.png" alt="Calendário de datas disponíveis" width="50%">
+
     6. Selecionar o horário disponível.
     
     <img src="image-6.png" alt="Seleção de horário" width="50%">
+
     7. Preencher o campo de texto com as informações requisitadas no parágrafo de texto acima do campo.
     
     <img src="image-7.png" alt="Preenchimento do formulário" width="50%">
     
 # Avaliação Heurística
 
-- **Visibilidade do estado do sistema, prevenção de erros**: Não existe em nenhum local algum idicativo de disponibilidade do sistema — _Sistema online_ — ou que informe o estado atual (exemplo: carregando, processando, aguarde ou outro similar). Para prevenção de erros, apenas aparece um balão de aviso "preencha esse campo" para evitar de submeter um agendamento vazio, porém esse campo aceita qualquer tipo de informação.
-<img src="image-9.png" alt="Alerta Preencha esse campo" width="50%">
-<img src="image.png" alt="Barra superior" width="50%">
-    - **Local:** Não existente nenhum elemento que indique o estado do sistema
-    - **Severidade :** 3 (problema grande), O Usuário não sabe se o sistema de agendamento está ativo. e também não possui feedback a respeito do seu pedido.
+### Homepage
+
+Considere os seguinte fragmentos de tela do site AgendaDF:
+
+O relatório a seguir ilustra a descrição das violaões resultante da avaliação heurstica. 
+Observe que alguns problemas constituem violação de mais de uma heurística. (Barbosa e Silva, 2010, p. 313). 
+
+a severidade dos problemas seguirá a seguinte escala numérica (Barbosa e Silva, 2010, p. 313). 
+```
+1: problema cosmético – não precisa ser consertado a menos que haja tempo no 
+cronograma do projeto;
+
+2: problema pequeno – o conserto deste problema pode receber baixa prioridade;
+
+3: problema grande – importante de ser consertado e deve receber alta prioridade. 
+Esse tipo de problema prejudica fatores de usabilidade tidos como impor
+tantes para o projeto (por exemplo, s o exigidos muitos passos de intera o 
+para alcanar um objetivo que deveria ser atingido de forma efi ciente);
+
+4: problema catastrófico –  extremamente importante consert-lo antes de se 
+lanar o produto. Se mantido, o problema provavelmente impedir que o 
+usurio realize suas tarefas e alcance seus objetivos.
+```
+
+### Página principal do AgendaDF
+
+<img src="image-11.png" alt="Homepage" width="50%">
+
+- **Visibilidade do estado do sistema, projeto estético e minimalista**: Não existe em nenhum local algum idicativo de disponibilidade do sistema — _Sistema online_ —. Há bastante espaço em branco na barra do sistema, que faz o título tomar epsço útil da tela de conteúdo.O tamanho de fonte do texto expliativo é demasiadamente pequeno, o que pode passar despercebido pelo usuário.
+    - **Local:** Texto logo abaixo do título da página e barra superior do sistema
+    - **Severidade :** 1, O Usuário não sabe se o sistema de agendamento está ativo.
         - **Frequência:** Problema comum.
         - **Impacto:** Baixo.
         - **Persistência:** Acontece repetidamente.
 
-    - **Recomendação:** Colocar na barra superior algum elemento para indicar a disponibilidade do sistema. Inserir popup ou algum outro elemento animado para indicar o estado de processamento do sistema.
+    - **Recomendação:** Colocar na barra superior algum elemento para indicar a disponibilidade do sistema. Ajustar a barra de título.
+
+## Página de seleção de serviços SES-DF:
+
+<img src="image-12.png" alt="Tela de seleção de serviços" width="50%">
+
+- **Correspondência com o mundo real, projeto estético**: O tamanho da caixa de textos não é padronizado, há uso de termos que são conhecidos para usuários que possuem familiaridade com o universo da saúde, porém pode dificultar a compreensão para o usuário que não esteja acostumnado.
+    - **Local:** Quadro de serviços.
+    - **Severidade :** 2 (problema grande), Usuários mais leigos podem desconhecer ou se confundir com os termos. E o excesso de texto por caixa pode dificultar a leitura do usuário com dificuldade visual.
+        - **Frequência:** Problema comum.
+        - **Impacto:** Médio.
+        - **Persistência:** Acontece repetidamente.
+    - **Recomendação:** Limitar a quantidade de texto por caixa, diferenciar os serviços por categoria/especialidade e evitar uso de termos especpificos do universo de medicina.
 
 
-3. **Controle e liberdade do usuário:** Os usuários têm sim a possibilidade de voltar a um passo anterior, porém só volta uma etapa por vez, necessitando vários cliques para voltar várias páginas do formulário. 
-    - **Local:** ausência de um botão de volta para o início do  formulário do site. 
-    - **Severidade:** 2 (problema pequeno). O usuário está acostumado  a utilizar botão de voltar do navegador. 
-    - **Recomendação:** incluir um botão Voltar para uma etapa específica. 
 
-4. **Consistência e padronização, prevenção de erros:** Os campos de preenchimento alternativo não podem ser selecionados caso não haja atração disponível iv. 
-    - **Local:** formulário de login, campos “Email:” e “ou CPF/CNPJ:”. 
-    - **Severidade:** 2 (problema pequeno). Apesar de ineficiente, o 
-preenchimento dos dois campos no impede o usuário de efetuar 
-o login. 
-    - **Recomendação:** identificar os campos alternativos por botões de opção, que devem ser automaticamente selecionados 
-quando o usuário inicia a digita o no campo correspondente. 
+## Página de seleção de unidade de atendimento. 
 
-5. **Flexibilidade e eficiência de uso, consistência e padronização:** O sistema recupera 
-alguns dados do próprio cliente como nome completo e data de nascimento com base 
-no CPF digitado, porém se ele desejar memorizar outras informações, o sistema não 
-oferece de forma nativa, portanto deve recorrer a um recurso do navegador.  
-    - **Local:** preenchimento de formulário 
-    - **Severidade:** 2 (problema pequeno) para usuários ocasionais; 3 (problema 
-grande) para usuários frequentes, que provavelmente darão preferência a Web 
-sites que se lembrem “deles”.  
-    - **Recomendação:** oferecer um checkbox ter meu login ativo por 15 dias. 
+<img src="image-13.png" alt="Tela de seleção de unidade" width="50%">
 
-Página escolhida: agendamento de visita ecoturismo ICMBIO:
+- **Projeto estético minimalista**: Como esse serviço é ofertado em apenas uma unidade de saúde (somente no laboratório de Ceilândia), não há necessidade de uma página dedicada somente para uma opção.
+    - **Local:** Página de seleção de unidade.
+    - **Severidade :** 2, O Usuário pode ter usa jornada encurtada caso essa etapa seja removida.
+        - **Frequência:** Problema comum.
+        - **Impacto:** Médio.
+        - **Persistência:** Acontece repetidamente.
+    - **Recomendação:** Remover essa etapa, já que esse serviço é ofertado somente nessa unidade.
 
-![Problema de pedir autenticação ao fim do formulário e redireciona para a tela inicial após login](image-7.png)
 
+## Página de calendário (seleção de data do atendimento)
+
+<img src="image-14.png" alt="Calendário" width="50%">
+
+- **Visibilidade do estado do sistema, Flexibilidade de controle, reconhecimento em vez de memorização:** O calendário possui apenas uma legenda simples com pequenas bolinhas coloridas para que o usuário memorize a cor corresspondete à disponibilidade de vagas. Não há uma forma mais intuitiva de selecionar a data desejada
+    - **Local:** Calendário de seleção de agendamento. 
+    - **Severidade:** 3, Usuários com dificuldade visual ou com daltonismo terão dificuldades de reconhecer rapidamente as datas com vagas disponíveis. O sistema não fornece alternativas de uso nessa etapa e também não fornce feedback audiovisual sobre as datas disponíveis e selecionadas.
+    - **Frequência:** Problema comum.
+        - **Impacto:** Baixo.
+        - **Persistência:** Acontece repetidamente.
+    - **Recomendação:** incluir sistema de alteração de cores (daltonismo), incluir opção de visualização de datas disponíveis por lista.
+
+
+## Página de seleção de horário
+
+<img src="image-15.png" alt="página de seleção de horário" width="50%">
+
+- **Consistência e padronização, prevenção de erros:** Há pouco destaque no texto informativo de ação, e também ao confirmar o horário o sistema pede para efetuar o login e retorna para a página principal (caso o usuário não houvesse realizado o login ateriormente), que quebra o fluxo do usuário.
+    - **Local:** página de seleção de horário.
+    - **Severidade:** 3, esse problema é bastante crítico pois o usuário pode se frustrar com o uso do sistema e desistir.
+        - **Frequência:** Problema comum.
+        - **Impacto:** Alto.
+        - **Persistência:** Acontece repetidamente.
+    - **Recomendação:** solicitar o login na primeira etapae melhorar o contraste e tamanho do texto.
+
+
+
+## Formulário de informações para agendamento
+<img src="image-16.png" alt="Formulário de agendamento" width="50%">
+
+-  **Flexibilidade e eficiência de uso, consistência e padronização, prevenção de erros:** Essa parte do sistema apenas possui um texto que solicita alguns dados do usuário, mas o campo de entrada das informações não é de dadsos estruturados, é apenas um campo de texto simples. Além de já mostrar orientações da consulta ainda nessa etapa.
+    - **Local:** Preenchimento de formulário 
+    - **Severidade:** 3, esse problema é considerado gran para usuaários que possuam alguma preferência para sites com entradas de informações mais organizadas e esturutradas.
+        - **Frequência:** Problema comum.
+        - **Impacto:** Alto.
+        - **Persistência:** Acontece repetidamente. 
+    - **Recomendação:** Oferecer diferentes métodos de entrada no formulário como listas, menu suspenso, checkboxes e travas de campos obrigatórios para auxuiliar ao usuário a preencher corretamente.
+
+
+
+## Página de finalização
+<img src="image-1.png" alt="Tela de finalização" width="50%">
+
+-  **Flexibilidade e eficiência de uso, consistência e padronização, prevenção de erros:** A página final mostra todas as informações contidas do formulário, o que pode poluir a leitura.
+    - **Local:** Página de encerramento
+    - **Severidade:** 2, Pode haver confusão de informações por parte do usuário.
+        - **Frequência:** Problema comum.
+        - **Impacto:** Alto.
+        - **Persistência:** Acontece repetidamente. 
+    - **Recomendação:** Inserir cards com os atendimentos e a opção clicável para o usuário ver os detalhes dos cards de atendimento.
+
+
+
+
+## Página de Ajuda/perguntas frequentes
+
+<img src="image-10.png" alt="Ajuda/Perguntas Frequentes" width="50%">
+
+-  **Ajuda e documentação:** A página de ajuda e perguntas frequentes não possui ajuda para itens específicos do sistema que possa auxiliar ao usuárui quanto a sua operação.
+    - **Local:** Página de ajuda
+    - **Severidade:** 2, Pode haver confusão de informações por parte do usuário.
+        - **Frequência:** Problema comum.
+        - **Impacto:** Alto.
+        - **Persistência:** Acontece repetidamente. 
+    - **Recomendação:** inserir botão de ajuda em partes/elementos específicos ao longo da jornada de tarefa do usuário. Detalhar melhor a documentação de uso.
+
+
+<img src="image-9.png" alt="Alerta Preencha esse campo" width="50%">
+<img src="image.png" alt="Barra superior" width="50%">
 ----------
-nota de rodapé: 1 Acessibilidade: possibilidade de leitura com o agente de usuário. O Agente de Usuário referese ao software para ter acesso ao conteúdo web. Inclui 
-navegadores gráficos, navegadores de texto, navegadores de voz, celulares, leitores de multimídia, suplementos para navegadores, como os leitores de tela e 
-os programas de reconhecimento de voz.  Se um Agente de Usuário, como, por exemplo, um navegador ou um leitor de telas, não detectar o tipo de 
-codificação de caracteres usado no documento web, o usuário corre o risco de ter em seu site um texto ininteligível.
+
+
+```
+Nota de rodapé:
+
+1 Acessibilidade: possibilidade de leitura com o agente de usuário. O Agente de Usuário referese ao software para ter acesso ao conteúdo web. Inclui navegadores gráficos, navegadores de texto, navegadores de voz, celulares, leitores de multimídia, suplementos para navegadores, como os leitores de tela e os programas de reconhecimento de voz.  Se um Agente de Usuário, como, por exemplo, um navegador ou um leitor de telas, não detectar o tipo de codificação de caracteres usado no documento web, o usuário corre o risco de ter em seu site um texto ininteligível.
+
 2 Usabilidade: produtividade, eficiência de uso e funcionalidade do ambiente – facilidade de acesso para TODOS.
-3 Comunicabilidade: processo de comunicação desenvolvedorusuário; mede o nível de compreensão do usuário. É preciso que o usuário compreenda cada 
-evento contido na interface, que os dados/informações presentes na mesma sejam transmitidos com clareza
 
-![alt text](image-10.png)
-
+3 Comunicabilidade: processo de comunicação desenvolvedorusuário; mede o nível de compreensão do usuário. É preciso que o usuário compreenda cada evento contido na interface, que os dados informações presentes na mesma sejam transmitidos com clareza
+```
