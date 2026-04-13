@@ -27,31 +27,31 @@ Avaliação Heurística do site de agendamento exame de curva glicêmica para Ge
 1. **Caminho da Interação** Selecionado Para a avaliação, o avaliador percorrerá o seguinte caminho de interação:
     1. Acesso ao site do Agenda DF (https://agenda.df.gov.br/index.html). E buscar nos quadros disponíveis o quadro correspondente à "Secretaria de Estado de Saúde do Distrito Federal SES-DF".
         <div>
-            <img src="image-1.png" alt="Tela principal do AgendaDF" width="30%">
-            <img src="image-2.png" alt="ícone SES-DF" width="20%">
+            <img src="../assets/image-1.png" alt="Tela principal do AgendaDF" width="30%">
+            <img src="../assets/image-2.png" alt="ícone SES-DF" width="20%">
         </div>
 
     2. Fazer o Login com a conta GOV.BR. 
 
     3. Acessar “Exame de curva glicêmica - Gestantes (24 a 28 semanas) e Não Gestantes” no quadro de serviços.
         <div>
-            <img src="image-3.png" alt="Quadro de serviços SES-DF" width="20%">
+            <img src="../assets/image-3.png" alt="Quadro de serviços SES-DF" width="20%">
         </div>
     4. Selecionar a unidade de atendimento "Laboratório Regional de Ceilândia".
     
-    <img src="image-4.png" alt="Unidade de atendimento" width="20%">
+    <img src="../assets/image-4.png" alt="Unidade de atendimento" width="20%">
 
     5. Selecionar a Data disponível de acordo com o calendário exibido na tela.
     
-    <img src="image-5.png" alt="Calendário de datas disponíveis" width="50%">
+    <img src="../assets/image-5.png" alt="Calendário de datas disponíveis" width="50%">
 
     6. Selecionar o horário disponível.
     
-    <img src="image-6.png" alt="Seleção de horário" width="50%">
+    <img src="../assets/image-6.png" alt="Seleção de horário" width="50%">
 
     7. Preencher o campo de texto com as informações requisitadas no parágrafo de texto acima do campo.
     
-    <img src="image-7.png" alt="Preenchimento do formulário" width="50%">
+    <img src="../assets/image-7.png" alt="Preenchimento do formulário" width="50%">
     
 # Avaliação Heurística
 
@@ -81,7 +81,7 @@ usurio realize suas tarefas e alcance seus objetivos.
 
 ### Página principal do AgendaDF
 
-<img src="image-11.png" alt="Homepage" width="50%">
+<img src="../assets/image-11.png" alt="Homepage" width="50%">
 
 - **Visibilidade do estado do sistema, projeto estético e minimalista**: Não existe em nenhum local algum idicativo de disponibilidade do sistema — _Sistema online_ —. Há bastante espaço em branco na barra do sistema, que faz o título tomar epsço útil da tela de conteúdo.O tamanho de fonte do texto expliativo é demasiadamente pequeno, o que pode passar despercebido pelo usuário.
     - **Local:** Texto logo abaixo do título da página e barra superior do sistema
@@ -94,7 +94,7 @@ usurio realize suas tarefas e alcance seus objetivos.
 
 ## Página de seleção de serviços SES-DF:
 
-<img src="image-12.png" alt="Tela de seleção de serviços" width="50%">
+<img src="../assets/image-12.png" alt="Tela de seleção de serviços" width="50%">
 
 - **Correspondência com o mundo real, projeto estético**: O tamanho da caixa de textos não é padronizado, há uso de termos que são conhecidos para usuários que possuem familiaridade com o universo da saúde, porém pode dificultar a compreensão para o usuário que não esteja acostumnado.
     - **Local:** Quadro de serviços.
@@ -108,7 +108,7 @@ usurio realize suas tarefas e alcance seus objetivos.
 
 ## Página de seleção de unidade de atendimento. 
 
-<img src="image-13.png" alt="Tela de seleção de unidade" width="50%">
+<img src="../assets/image-13.png" alt="Tela de seleção de unidade" width="50%">
 
 - **Projeto estético minimalista**: Como esse serviço é ofertado em apenas uma unidade de saúde (somente no laboratório de Ceilândia), não há necessidade de uma página dedicada somente para uma opção.
     - **Local:** Página de seleção de unidade.
@@ -121,7 +121,7 @@ usurio realize suas tarefas e alcance seus objetivos.
 
 ## Página de calendário (seleção de data do atendimento)
 
-<img src="image-14.png" alt="Calendário" width="50%">
+<img src="../assets/image-14.png" alt="Calendário" width="50%">
 
 - **Visibilidade do estado do sistema, Flexibilidade de controle, reconhecimento em vez de memorização:** O calendário possui apenas uma legenda simples com pequenas bolinhas coloridas para que o usuário memorize a cor corresspondete à disponibilidade de vagas. Não há uma forma mais intuitiva de selecionar a data desejada
     - **Local:** Calendário de seleção de agendamento. 
@@ -134,7 +134,7 @@ usurio realize suas tarefas e alcance seus objetivos.
 
 ## Página de seleção de horário
 
-<img src="image-15.png" alt="página de seleção de horário" width="50%">
+<img src="../assets/image-15.png" alt="página de seleção de horário" width="50%">
 
 - **Consistência e padronização, prevenção de erros:** Há pouco destaque no texto informativo de ação, e também ao confirmar o horário o sistema pede para efetuar o login e retorna para a página principal (caso o usuário não houvesse realizado o login ateriormente), que quebra o fluxo do usuário.
     - **Local:** página de seleção de horário.
@@ -147,7 +147,7 @@ usurio realize suas tarefas e alcance seus objetivos.
 
 
 ## Formulário de informações para agendamento
-<img src="image-16.png" alt="Formulário de agendamento" width="50%">
+<img src="../assets/image-16.png" alt="Formulário de agendamento" width="50%">
 
 -  **Flexibilidade e eficiência de uso, consistência e padronização, prevenção de erros:** Essa parte do sistema apenas possui um texto que solicita alguns dados do usuário, mas o campo de entrada das informações não é de dadsos estruturados, é apenas um campo de texto simples. Além de já mostrar orientações da consulta ainda nessa etapa.
     - **Local:** Preenchimento de formulário 
@@ -160,7 +160,7 @@ usurio realize suas tarefas e alcance seus objetivos.
 
 
 ## Página de finalização
-<img src="image-1.png" alt="Tela de finalização" width="50%">
+<img src="../assets/image-1.png" alt="Tela de finalização" width="50%">
 
 -  **Flexibilidade e eficiência de uso, consistência e padronização, prevenção de erros:** A página final mostra todas as informações contidas do formulário, o que pode poluir a leitura.
     - **Local:** Página de encerramento
@@ -175,7 +175,7 @@ usurio realize suas tarefas e alcance seus objetivos.
 
 ## Página de Ajuda/perguntas frequentes
 
-<img src="image-10.png" alt="Ajuda/Perguntas Frequentes" width="50%">
+<img src="../assets/image-10.png" alt="Ajuda/Perguntas Frequentes" width="50%">
 
 -  **Ajuda e documentação:** A página de ajuda e perguntas frequentes não possui ajuda para itens específicos do sistema que possa auxiliar ao usuárui quanto a sua operação.
     - **Local:** Página de ajuda
@@ -186,8 +186,7 @@ usurio realize suas tarefas e alcance seus objetivos.
     - **Recomendação:** inserir botão de ajuda em partes/elementos específicos ao longo da jornada de tarefa do usuário. Detalhar melhor a documentação de uso.
 
 
-<img src="image-9.png" alt="Alerta Preencha esse campo" width="50%">
-<img src="image.png" alt="Barra superior" width="50%">
+
 
 
 # Consolidação de resultado
