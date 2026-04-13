@@ -1,45 +1,50 @@
-# Ata da Reunião 1 - [Data da Reunião]
+# Ata da Reunião 1 - 10/04/2026
 
 ## 1. Identificação
 | Detalhe | Informação |
 | :--- | :--- |
-| **Projeto** | [Sigla - Nome do Projeto] |
-| **Data** | [DD/MM/AAAA] |
-| **Início / Término Previsto** | [00:00] às [00:00] |
-| **Início / Término Realizado** | [00:00] às [00:00] |
-| **Local** | [Presencial ou Link da Chamada] |
-| **Redator** | [Nome do Integrante] |
+| **Projeto** | Projeto de IHC |
+| **Data** | 10/04/2026 |
+| **Início / Término Previsto** | 18:00 às 19:00 |
+| **Início / Término Realizado** | 18:00 às 18:40 |
+| **Local** | Google Meet [Link](https://youtu.be/i98d6HWn-6I?si=yvLmh3GRBSI1o73R) |
+| **Redator** | Arthur Mezzaroba |
 
 ### Convocados
 | Nome | Presente |
 | :--- | :---: |
-| [Membro 1] | [ ] |
-| [Membro 2] | [ ] |
-| [Membro 3] | [ ] |
-| [Membro 4] | [ ] |
-| [Membro 5] | [ ] |
+| Arthur | [x] |
+| Luís | [x] |
+| Mariana | [x] |
+| Pedro | [x] |
+| Samuel | [x] |
 
 ## 2. Pauta
 | Nº | Descrição |
 | :--- | :---: |
-| 01 |  |
-| 02 |  |
-| 03 |  |
+| 01 | Discussão sobre a divisão de tarefas (planejamento do projeto) |
+| 02 | Discussão sobre a definição do Cronograma do projeto |
+| 03 | Brainstorm de ideias iniciais sobre o desenvolvimento do projeto |
+| 04 | Análise das avaliações de sites previamente feitas por cada integrante |
+| 05 | Decisão da escolha do site alvo do Projeto |
+| 06 | Alinhamento sobre as ferramentas de documentação |
 
 ## 3. Pendências Anteriores
 | N° | Pendência | Responsável | Data Limite |
 | :--- | :--- | :--- | :--- |
-| 01 | [Descrição da pendência vinda de outra ata] | [Nome] | [DD/MM/AAAA] |
-| 02 | [Descrição da pendência vinda de outra ata] | [Nome] | [DD/MM/AAAA] |
+| 01 | sem pendências | - | - |
 
 ## 4. Assuntos Tratados
 Nesta seção, registre as discussões e conclusões. Utilize os tipos: **Apresentação**, **Decisão**, **Definição**, **Solicitação** ou **Pendência**.
 
 | N° | Descrição | Tipo¹ |
 | :--- | :--- | :--- |
-| 01 |  |  |
-| 02 |  |  |
-
+| 01 | Decidido que a divisão de tarefas até a entrega final ficará claramente estabelecida no cronograma | Decisão |
+| 02 | Definimos que a elaboração íntegra dos cronogramas de cada entrega deve estar no git pages da entrega 1 | Definição |
+| 03 | Apresentação das ideias do que deve conter no git pages até o final da entrega 1 | Apresentação |
+| 04 | Apresentação da avaliação dos sites (individual) feita previamente | Apresentação |
+| 05 | Diante das avaliações apresentadas, decidimos que o site alvo do nosso projeto seria o portal de Agendamento Eletrônico dos Exames de Curva Glicêmica para Gestantes | Decisão |
+| 04 | Decisão sobre quais ferramentas o grupo vai utilizar no projeto | Decisão |
 
 ¹Tipos:
 - Apresentação: Exposição de algum assunto realizada durante a reunião. Não depende de avaliação ou
@@ -63,12 +68,11 @@ aprovada com base na análise do estudo de viabilidade.
 ## 5. Compromissos (Ações e Tarefas)
 | N° | Compromisso | Responsável | Data Limite |
 | :--- | :--- | :--- | :--- |
-| 01 | [Ação a ser realizada] | [Nome] | [DD/MM/AAAA] |
-| 02 | [Ação a ser realizada] | [Nome] | [DD/MM/AAAA] |
+| 01 | Conferir o Cronograma da Entrega 1 e realizar as atividades atribuídas ao seu nome | todos | 12/04/2026 |
 
 ## 6. Próxima Reunião
-* **Data prevista:** [DD/MM/AAAA]
-* **Objetivo:** [Breve descrição do que será tratado]
+* **Data prevista:** 12/04/2026
+* **Objetivo:** Gravação do vídeo do trabalho e alinhamento para a próxima semana.
 
 ## 7. Bibliografia
 
@@ -79,4 +83,4 @@ aprovada com base na análise do estudo de viabilidade.
 ## 8. Histórico de Versões
 | Versão | Data | Descrição | Autor | Revisor |
 | :---: | :---: | :--- | :--- | :--- |
-| 1.0 | [Data] | Criação do documento | [Seu Nome] | [Nome do Revisor] |
+| 1.0 | 12/04/2026 | Criação do documento | Arthur Mezzaroba | Luis |
