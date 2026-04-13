@@ -32,7 +32,7 @@ Avaliação Heurística do site de agendamento exame de curva glicêmica para Ge
         </div>
 
     2. Fazer o Login com a conta GOV.BR. 
-    
+
     3. Acessar “Exame de curva glicêmica - Gestantes (24 a 28 semanas) e Não Gestantes” no quadro de serviços.
         <div>
             <img src="image-3.png" alt="Quadro de serviços SES-DF" width="20%">
@@ -188,7 +188,19 @@ usurio realize suas tarefas e alcance seus objetivos.
 
 <img src="image-9.png" alt="Alerta Preencha esse campo" width="50%">
 <img src="image.png" alt="Barra superior" width="50%">
-----------
+
+
+# Consolidação de resultado
+
+A avaliação em questão tem como objetivo verificar a conformidade de acessibilidade com o W3C, no processo de realização de agendamento de exame de glicemia para gestantes. Como o próprio livro de Iteração Humano Computador sugere, para esse tipo de análise, há a dispensa de recurtamento e participação de usuários, e recorre-se à no máximo 5 avaliadores
+
+Em resumo, pôde-se observar um padrão de falhas no atendimento às normas do W3C como a falta de opção de contraste de cores e cores alternativas para daltonismo, ajuste de tamanho de fonte, pouco contraste ou escala relativa de elementos diferentes, facilidade na intergração com agentes leitores de tela e descrição de imagens (alt-text).
+
+### Lista de problemas encontrados:
+- Falta de integração com agentes leitores de tela.
+- Falta de funcão de ajuste de cores e tamanho de texto.
+- Escala incorreta relativa entre elementos da página como texto de instruções e conteúdo.
+- Falta de funcionalidade de leitura em Libras pré-gravadas.
 
 
 ```
@@ -200,3 +212,14 @@ Nota de rodapé:
 
 3 Comunicabilidade: processo de comunicação desenvolvedorusuário; mede o nível de compreensão do usuário. É preciso que o usuário compreenda cada evento contido na interface, que os dados informações presentes na mesma sejam transmitidos com clareza
 ```
+
+
+# Referências bibliográficas:
+
+DISTRITO FEDERAL. Serviço de Agendamentos do Distrito Federal. Brasília, DF: Governo do Distrito Federal, [2026]. Disponível em: https://agenda.df.gov.br/meus_agendamentos.html. Acesso em: 11 abr. 2026.
+
+W3C. Essential Components of Web Accessibility. [S. l.], [202-?]. Disponível em: https://www.w3.org/WAI/fundamentals/accessibility-principles/#standards. Acesso em: 11 abr. 2026.
+
+W3C. Web Content Accessibility Guidelines (WCAG) 2.0. Recomendação W3C de 11 dez. 2008. [S. l.], 2008. Disponível em: https://www.w3.org/TR/WCAG20/. Acesso em: 11 abr. 2026.
+
+W3C. Web Content Accessibility Guidelines (WCAG) 2.2. Recomendação W3C de 12 dez. 2024. [S. l.], 2024. Disponível em: https://www.w3.org/TR/WCAG22/. Acesso em: 11 abr. 2026.
