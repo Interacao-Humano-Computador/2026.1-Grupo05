@@ -3,43 +3,40 @@
 ## 1. Identificação
 | Detalhe | Informação |
 | :--- | :--- |
-| **Projeto** | [Sigla - Nome do Projeto] |
-| **Data** | [DD/MM/AAAA] |
-| **Início / Término Previsto** | [00:00] às [00:00] |
-| **Início / Término Realizado** | [00:00] às [00:00] |
-| **Local** | [Presencial ou Link da Chamada] |
-| **Redator** | [Nome do Integrante] |
+| **Projeto** | Projeto de IHC |
+| **Data** | 16/04/2026 |
+| **Início / Término Previsto** | 20:00 às 20:30 |
+| **Início / Término Realizado** | 20:15 às 20:36 |
+| **Local** | Google Meet (link) |
+| **Redator** | Arthur Mezzaroba |
 
 ### Convocados
 | Nome | Presente |
 | :--- | :---: |
-| [Membro 1] | [ ] |
-| [Membro 2] | [ ] |
-| [Membro 3] | [ ] |
-| [Membro 4] | [ ] |
-| [Membro 5] | [ ] |
+| Arthur | [x] |
+| Luís | [x] |
+| Mariana | [x] |
+| Pedro | [x] |
+| Samuel | [ ] |
 
 ## 2. Pauta
 | Nº | Descrição |
 | :--- | :---: |
-| 01 |  |
-| 02 |  |
-| 03 |  |
+| 01 | Conversa sobre a necessidade da troca do site alvo do estudo do grupo. |
 
 ## 3. Pendências Anteriores
 | N° | Pendência | Responsável | Data Limite |
 | :--- | :--- | :--- | :--- |
-| 01 | [Descrição da pendência vinda de outra ata] | [Nome] | [DD/MM/AAAA] |
-| 02 | [Descrição da pendência vinda de outra ata] | [Nome] | [DD/MM/AAAA] |
+| 01 | sem pendências | - | - |
 
 ## 4. Assuntos Tratados
 Nesta seção, registre as discussões e conclusões. Utilize os tipos: **Apresentação**, **Decisão**, **Definição**, **Solicitação** ou **Pendência**.
 
 | N° | Descrição | Tipo¹ |
 | :--- | :--- | :--- |
-| 01 |  |  |
-| 02 |  |  |
-
+| 01 | Consenso sobre a necessidade de troca do site avaliado pelo grupo no projeto da disciplina. | Decisão |
+| 02 | Apresentação superficial sobre outras possibilidades de sites para avaliação. | Apresentação |
+| 03 | Discussão sobre dúvidas e questionamentos sobre o custo do retrabalho a depender do novo site escolhido. | Pendência |
 
 ¹Tipos:
 - Apresentação: Exposição de algum assunto realizada durante a reunião. Não depende de avaliação ou
@@ -63,12 +60,11 @@ aprovada com base na análise do estudo de viabilidade.
 ## 5. Compromissos (Ações e Tarefas)
 | N° | Compromisso | Responsável | Data Limite |
 | :--- | :--- | :--- | :--- |
-| 01 | [Ação a ser realizada] | [Nome] | [DD/MM/AAAA] |
-| 02 | [Ação a ser realizada] | [Nome] | [DD/MM/AAAA] |
+| 01 | Pesquisar e pensar sobre novas possibilidades de sites alvo da avaliação da disciplina. | todos | 21/04/2026 |
 
 ## 6. Próxima Reunião
-* **Data prevista:** [DD/MM/AAAA]
-* **Objetivo:** [Breve descrição do que será tratado]
+* **Data prevista:** 21/04/2026
+* **Objetivo:** Apresentação sobre qual será o novo site alvo da avaliação do projeto e discutir seus respectivos problemas e questões de retrabalho.
 
 ## 7. Bibliografia
 
@@ -79,4 +75,4 @@ aprovada com base na análise do estudo de viabilidade.
 ## 8. Histórico de Versões
 | Versão | Data | Descrição | Autor | Revisor |
 | :---: | :---: | :--- | :--- | :--- |
-| 1.0 | [Data] | Criação do documento | [Seu Nome] | [Nome do Revisor] |
+| 1.0 | 17/04/2026 | Criação do documento | Arthur | Pedro |
