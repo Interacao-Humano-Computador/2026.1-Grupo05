@@ -1,8 +1,14 @@
 # Super Estágios
 
+A "Super Estágios" é uma plataforma dedicada à integração entre universitários que desejam realizar seu primeiro estágio ou que estão a procura de novas oportunidades dentro de suas áreas de estudos, contam ainda com  empresas que desejam incorporar seus times de trabalhos com alunos selecionados.                                                                           A empresa oferece serviços como divulgação de vagas de estágios, recrutamento, além da seleção de candidatos e gestão dos seus programas de estágios.
+
+*Fonte: [Super Estágios](https://www.superestagios.com.br/index)*
+
+**Figura 1: Logo Super Estágios**
+
 <img width="454" height="300" alt="superestagios" src="assets/Logo_SE.png" />
 
-Figura 1: Logo Super Estágios (Fonte: [Super Estágios](https://www.superestagios.com.br/index))
+*Fonte: [Super Estágios](https://www.superestagios.com.br/index)*
 
 ## Sobre o Projeto
 Repositório de documentação do "Grupo 05" na Disciplina de Interação Humano Computador - FGA0173, ministrada pelo Prof. Dr. Andre Barros de Sales em 2026.1 na Universidade de Brasília.
@@ -36,3 +42,4 @@ Para visualizar localmente, utilize o comando:
 | 09/04/2026 | 1.0 | Criação do repositório e estrutura Docsify | Mariana Martins | Arthur Mezzaroba |
 | 11/04/2026 | 1.1 | Adição da descrição e logo | Mariana Martins | Pedro Henrique |
 | 30/04/2026 | 1.2 | Atualização com o novo site | Luís Oliveira | Mariana Martins |
+| 01/05/2026 | 1.3 | Atualização da descrição | Mariana Martins | Pedro Henrique |
