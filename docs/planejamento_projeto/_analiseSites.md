@@ -32,7 +32,7 @@ O formulário de busca de vagas usa termos que dependem de uma ordem específica
 | **Efeito sobre a tarefa:** O usuário não consegue filtrar vagas por cidade sem entender a ordem correta de preenchimento. |
 
 *Tabela 1 – Formulário de Avaliação Heurística do Ponto 2.*
-*Fonte: Luís, 2026.*
+*Fonte: Elaboração própria, 2026.*
 
 ## Ponto 3 – Controle e liberdade do usuário
 
@@ -58,7 +58,7 @@ O formulário de cadastro do estudante não apresenta um padrão visual consiste
 | **Efeito sobre a tarefa:** O cadastro do estudante é interrompido por erros evitáveis de preenchimento. |
 
 *Tabela 2 – Formulário de Avaliação Heurística do Ponto 4.*
-*Fonte: Luís, 2026.*
+*Fonte: Elaboração própria, 2026.*
 
 ## Ponto 5 – Reconhecimento em vez de memorização
 
@@ -80,7 +80,7 @@ Os cards de vagas exibidos na listagem mostram apenas o nome do curso, cidade e 
 | **Efeito sobre a tarefa:** O usuário leva mais tempo do que o necessário para encontrar uma vaga adequada ao seu perfil. |
 
 *Tabela 3 – Formulário de Avaliação Heurística do Ponto 5.*
-*Fonte: Luís, 2026.*
+*Fonte: Elaboração própria, 2026.*
 
 ## Ponto 6 – Flexibilidade e eficiência de uso
 
@@ -106,7 +106,7 @@ A página inicial do site exibe um carrossel de banners promocionais que ocupa a
 | **Efeito sobre a tarefa:** O usuário perde tempo procurando como acessar as funcionalidades principais. |
 
 *Tabela 4 – Formulário de Avaliação Heurística do Ponto 7.*
-*Fonte: Luís, 2026.*
+*Fonte: Elaboração própria, 2026.*
 
 ## Ponto 8 – Prevenção de erros
 
@@ -136,7 +136,7 @@ O site não possui uma seção de ajuda ou FAQ facilmente acessível durante o f
 | **Efeito sobre a tarefa:** Pode atrasar ou interromper o cadastro e a candidatura a vagas. |
 
 *Tabela 5 – Formulário de Avaliação Heurística do Ponto 10.*
-*Fonte: Luís
+*Fonte: Elaboração própria.*
 
 > [1] SUPER ESTÁGIOS. **Portal Super Estágios**. Disponível em: https://www.superestagios.com.br. Acesso em: 01 maio 2026.
 
