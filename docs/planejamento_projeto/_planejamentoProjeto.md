@@ -1,63 +1,78 @@
-# Planejamento do Projeto – Agendamento Eletrônico de Exame de Curva Glicêmica para Gestantes - 24 a 28 semanas de gestação
+# Planejamento da Avaliação – Super Estágios
 
 ## Introdução
 
-Este documento apresenta o planejamento da avaliação heurística da 
-funcionalidade de Agendamento Eletrônico dos Exames de Curva Glicêmica 
-para Gestantes – 24 a 28 semanas de gestação, disponível no portal 
-Agenda DF (agenda.df.gov.br), serviço vinculado à Secretaria de Estado 
-de Saúde do Distrito Federal. O planejamento foi elaborado seguindo o 
-framework DECIDE (BARBOSA et al., 2021), que orienta o avaliador na 
-definição dos objetivos, na escolha do método, na identificação das 
-questões práticas e éticas e na forma de avaliação e apresentação dos 
-dados.
+Este documento apresenta o planejamento da avaliação heurística do 
+portal Super Estágios (superestagios.com.br), plataforma de intermediação 
+de estágios que conecta estudantes, empresas e instituições de ensino em 
+todo o Brasil. O planejamento foi elaborado seguindo o framework DECIDE 
+(BARBOSA et al., 2021), que orienta o avaliador na definição dos 
+objetivos, na escolha do método, na identificação das questões práticas 
+e éticas e na forma de avaliação e apresentação dos dados.
 
 ## 1. Domínio
 
-O [Agenda DF](https://agenda.df.gov.br/) é o sistema oficial de agendamento eletrônico de serviços do Governo do Distrito Federal. Por meio do portal, cidadãos podem agendar atendimentos em diferentes postos de serviços públicos do DF sem necessidade de deslocamento prévio.
+O [Super Estágios](https://www.superestagios.com.br) é uma plataforma 
+privada de intermediação de estágios que, desde 2009, oferece serviços 
+de divulgação de vagas, recrutamento, seleção de candidatos e gestão de 
+programas de estágio para todo o Brasil. A plataforma é organizada em 
+três portais distintos:
 
-A funcionalidade avaliada é o **Agendamento Eletrônico dos Exames de Curva Glicêmica para Gestantes – 24 a 28 semanas de gestação**, disponível em:
-[https://agenda.df.gov.br/posto.html?servico=53957031](https://agenda.df.gov.br/posto.html?servico=53957031)
+- **Portal do Estudante** – permite cadastro de currículo, busca e 
+candidatura a vagas de estágio;
+- **Portal da Empresa** – permite cadastro de empresas e contratação de 
+estagiários;
+- **Portal da Instituição** – voltado para instituições de ensino que 
+desejam acompanhar a empregabilidade de seus alunos.
 
-O serviço é vinculado à **Secretaria de Estado de Saúde do Distrito Federal** e permite que gestantes entre 24 e 28 semanas de gestação realizem o agendamento online do exame de curva glicêmica — exame fundamental para rastreamento do Diabetes Mellitus Gestacional (DMG). As principais funcionalidades disponíveis no fluxo de agendamento são:
-
-- Seleção do serviço de exame de curva glicêmica
-- Escolha do posto de atendimento
-- Seleção de data e horário disponíveis
-- Confirmação do agendamento
+A avaliação abrange o site como um todo, com foco na experiência do 
+usuário estudante — principal público-alvo da plataforma — ao navegar, 
+buscar vagas e interagir com as funcionalidades disponíveis.
 
 ## 2. Objetivos (Determine)
 
 Os objetivos desta avaliação são:
 
-- Identificar problemas de usabilidade na interface de agendamento que possam dificultar ou impedir gestantes de concluírem o agendamento do exame;
-- Verificar se o fluxo de agendamento é claro, intuitivo e acessível para o público-alvo, que inclui gestantes que podem ter variados níveis de familiaridade com tecnologia;
-- Propor melhorias de interface e interação que aumentem a eficiência e a satisfação no uso do serviço.
+- Identificar problemas de usabilidade na interface do portal que possam 
+dificultar ou impedir estudantes de encontrarem e se candidatarem a 
+vagas de estágio;
+- Verificar se a navegação e o fluxo de uso são claros, intuitivos e 
+acessíveis para o público-alvo, composto principalmente por jovens 
+estudantes de nível médio e superior;
+- Propor melhorias de interface e interação que aumentem a eficiência e 
+a satisfação no uso da plataforma.
 
 ## 3. Questões a serem respondidas (Explore)
 
 As principais questões a serem respondidas durante a avaliação são:
 
 ### Análise tecnológica
-- O usuário consegue acessar o sistema de agendamento?
-- O usuário consegue concluir o agendamento do exame sem auxílio externo?
-- Quanto tempo os usuários levam para atingir o objetivo de agendar o exame?
+- O usuário consegue acessar e navegar pelo portal sem dificuldades?
+- O usuário consegue localizar e se candidatar a uma vaga de estágio sem 
+auxílio externo?
 - Os resultados e feedbacks do sistema são previsíveis e compreensíveis?
 - O sistema apresenta mecanismos de recuperação de erros?
-- Quais problemas impedem ou dificultam a conclusão do agendamento?
+- Quais problemas impedem ou dificultam o usuário de concluir seus 
+objetivos?
 
 ### Análise de design
-- A navegação entre as etapas do agendamento é clara e intuitiva?
+- A navegação entre as seções do portal é clara e intuitiva?
 - O visual é consistente e compreensível para o público-alvo?
-- Os termos e rótulos utilizados na interface correspondem à linguagem do mundo real dos usuários?
+- Os termos e rótulos utilizados na interface correspondem à linguagem 
+do mundo real dos usuários?
 - O sistema segue padrões de acessibilidade?
-- A interface indica claramente em qual etapa do agendamento o usuário se encontra?
+- A interface apresenta hierarquia visual adequada para orientar o 
+usuário durante o uso?
 
 ## 4. Método (Choose)
 
-O método escolhido para avaliação é o de **inspeção por Avaliação Heurística** (Nielsen, 1994). Este método foi selecionado por ser de baixo custo, não exigir a participação de usuários reais e permitir a identificação de problemas de usabilidade de forma rápida e sistemática, sendo especialmente adequado para portais de serviços públicos.
+O método escolhido para avaliação é o de **inspeção por Avaliação 
+Heurística** (Nielsen, 1994). Este método foi selecionado por ser de 
+baixo custo, não exigir a participação de usuários reais e permitir a 
+identificação de problemas de usabilidade de forma rápida e sistemática.
 
-A inspeção será guiada pelas **10 heurísticas de Nielsen**, adaptadas ao contexto Web:
+A inspeção será guiada pelas **10 heurísticas de Nielsen**, conforme 
+descritas em Barbosa et al. (2021, p. 282–283):
 
 1. Visibilidade do estado do sistema
 2. Correspondência entre o sistema e o mundo real
@@ -70,7 +85,9 @@ A inspeção será guiada pelas **10 heurísticas de Nielsen**, adaptadas ao con
 9. Ajuda aos usuários para reconhecer, diagnosticar e recuperar-se de erros
 10. Ajuda e documentação
 
-Os problemas encontrados serão classificados conforme a **escala de severidade de Nielsen (0–4)**:
+Os problemas encontrados serão classificados conforme a **escala de 
+severidade de Nielsen (0–4)**, conforme descrita em Barbosa et al. 
+(2021, p. 284–285):
 
 - **0** – Sem importância
 - **1** – Cosmético
@@ -84,21 +101,30 @@ Para a realização da avaliação heurística são necessários:
 
 - Acesso à internet e navegador atualizado
 - Computador ou dispositivo móvel
-- Acesso ao portal: [https://agenda.df.gov.br/posto.html?servico=53957031](https://agenda.df.gov.br/posto.html?servico=53957031)
+- Acesso ao portal: [https://www.superestagios.com.br](https://www.superestagios.com.br)
 - Lista das 10 heurísticas de Nielsen como material de apoio
 - Formulário de registro de problemas (baseado em Maciel et al., 2004)
 
 ## 6. Questões Éticas (Decide)
 
-Por se tratar de avaliação heurística — método de inspeção que não envolve a participação de usuários reais —, não há necessidade de aplicação de Termo de Consentimento Livre e Esclarecido (TCLE) nem de outros procedimentos éticos relacionados a participantes humanos. O avaliador assume o papel do usuário típico durante a inspeção da interface.
+Por se tratar de avaliação heurística — método de inspeção que não 
+envolve a participação de usuários reais —, não há necessidade de 
+aplicação de Termo de Consentimento Livre e Esclarecido (TCLE) nem de 
+outros procedimentos éticos relacionados a participantes humanos, 
+conforme Barbosa et al. (2021, p. 280). O avaliador assume o papel do 
+usuário típico durante a inspeção da interface.
 
 ## 7. Avaliação e Validação dos Dados (Evaluate)
 
 Após a inspeção, os dados serão avaliados e validados da seguinte forma:
 
-- Os problemas encontrados serão listados, classificados por heurística violada e nível de severidade;
-- Os resultados serão consolidados em um relato contendo: local do problema, descrição, heurística violada, grau de severidade e sugestão de solução;
-- A validação ocorrerá por meio de revisão do processo avaliativo por colegas da disciplina Interação Humano-Computador.
+- Os problemas encontrados serão listados e classificados por heurística 
+violada e nível de severidade;
+- Os resultados serão consolidados em um relato contendo: local do 
+problema, descrição, heurística violada, grau de severidade e sugestão 
+de solução;
+- A validação ocorrerá por meio de revisão do processo avaliativo por 
+colegas da disciplina Interação Humano-Computador.
 
 ## Bibliografia
 
@@ -116,10 +142,8 @@ Após a inspeção, os dados serão avaliados e validados da seguinte forma:
 > Human-Computer Interaction**. 2. ed. New York: John Wiley & Sons, 2007.
 > *(apud BARBOSA et al., 2021, p. 280)*
 
-> [4] AGENDA DF. **Agendamento Eletrônico – Exame de Curva Glicêmica para
-> Gestantes**. Secretaria de Estado de Saúde do Distrito Federal. Disponível
-> em: https://agenda.df.gov.br/posto.html?servico=53957031.
-> Acesso em: 11/04/2026.
+> [4] SUPER ESTÁGIOS. **Portal Super Estágios**. Disponível em: 
+> https://www.superestagios.com.br. Acesso em: 01/05/2026.
 
 ## Contribuidores
 
@@ -131,5 +155,6 @@ Após a inspeção, os dados serão avaliados e validados da seguinte forma:
 ## Histórico de Versões
 
 | Data | Versão | Descrição | Autor | Revisor |
-|------|--------|-----------|-----------|-------------|
-| 11/04/2026 | `1.0` | Criação do plano de avaliação | Luís Gustavo | Pedro Henrique|
+|------|--------|-----------|-------|---------|
+| 11/04/2026 | `1.0` | Criação do plano de avaliação (Agenda DF) | Luís Gustavo | Pedro Henrique |
+| 01/05/2026 | `2.0` | Atualização do site avaliado para Super Estágios | Luís Gustavo | Pedro Henrique |
