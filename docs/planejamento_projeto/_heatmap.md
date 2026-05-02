@@ -26,7 +26,7 @@ Os melhores horários para as reuniões em grupo foram definidos em:
 </div>
 
 ## Referências:
- 
+
 BARROS, Andre. Ambientacao. Brasília: UnB, 2026. Disponível em: https://aprender3.unb.br/. Acesso em: 9 abr. 2026.
 
 ## Contribuidores
@@ -41,4 +41,4 @@ BARROS, Andre. Ambientacao. Brasília: UnB, 2026. Disponível em: https://aprend
 | Versão | Data | Descrição | Autor | Revisor| 
 | :---: | :---: | :--- | :--- | :--- |
 | **1.0** | 09/04/2026 | Criação e Inserção da página "Heatmap" | Mariana Martins | Samuel Leite |
-| **1.1** | 09/04/2026 | Atualização da página "Heatmap" | Mariana Martins | Samuel Leite |
+| **1.1** | 01/05/2026 | Atualização da página "Heatmap" | Mariana Martins | Samuel Leite |
