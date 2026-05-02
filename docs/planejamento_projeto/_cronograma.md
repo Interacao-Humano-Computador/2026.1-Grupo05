@@ -176,7 +176,7 @@ O presente cronograma organiza as atividades do Grupo 05 na matéria de Interaç
 
 ## Cronograma Entrega 8 Final
 
-*Tabela 9: Cronograma 8 Entrega Final*
+**Tabela 9: Cronograma 8 Entrega Final**
 
 | # | Atividade | Início e Fim | Responsável | Revisor | Data de Revisão
 |:--:|-----------|--------|-----|-------------|--------|
@@ -192,7 +192,7 @@ O presente cronograma organiza as atividades do Grupo 05 na matéria de Interaç
 | 10 | Entrega Final Aprender | 23/06 a 23/06 | Mariana | Pedro | 23/06 a 23/06
 
 
-**Fonte:** Adaptado do Aprender3 UnB (2026).
+*Fonte: Adaptado do Aprender3 UnB (2026).*
 
 ## Bibliografia
 
