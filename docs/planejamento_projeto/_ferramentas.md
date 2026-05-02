@@ -30,3 +30,4 @@ As Ferramentas de Gerenciamento e execução de um projeto são partes essenciai
 | Data | Versão | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
 | 12/04/2026 | 1.0 | Elaboração do artefato Ferramentas | Mariana Martins | Arthur Scartezini |
+| 01/05/2026 | 1.1 | Atualização das ferramentas | Mariana Martins | Arthur Scartezini |
