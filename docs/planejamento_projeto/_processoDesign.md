@@ -81,10 +81,10 @@ Além disso, como o portal escolhido para o projeto já é um sistema em produç
 | Nome do Contribuidor |
 | :--- |
 | Luis Gustavo |
-| [--](--) |
+| Arthur |
 
 ## Histórico de Versões
 
 | Data | Versão | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
-| 12/04/2026 | 1.0 | Elaboração do artefato processo design | Luis Gustavo | --|
+| 12/04/2026 | 1.0 | Elaboração do artefato processo design | Luis Gustavo | Arthur |
