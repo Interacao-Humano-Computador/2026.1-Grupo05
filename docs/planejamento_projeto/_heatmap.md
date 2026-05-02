@@ -25,7 +25,8 @@ Os melhores horários para as reuniões em grupo foram definidos em:
 
 </div>
 
-Referência: 
+## Referências:
+ 
 BARROS, Andre. Ambientacao. Brasília: UnB, 2026. Disponível em: https://aprender3.unb.br/. Acesso em: 9 abr. 2026.
 
 ## Contribuidores
