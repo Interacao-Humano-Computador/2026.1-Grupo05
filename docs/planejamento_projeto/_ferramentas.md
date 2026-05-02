@@ -16,9 +16,7 @@ As Ferramentas de Gerenciamento e execução de um projeto são partes essenciai
 | <img src="https://www.svgrepo.com/show/447158/youtube-outline.svg" width="50"> | **YouTube** | Permitir a reprodução das Gravações de entregas. |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1280px-Visual_Studio_Code_1.35_icon.svg.png?_=20210804221519" width="50"> | **VsCode**| Utilizado como IDE. |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Google_Docs_logo_%282014-2020%29.svg/120px-Google_Docs_logo_%282014-2020%29.svg.png?_=20220322143607" width="50"> | **Google Docs** | Armazenamento de atas de reunião, roteiros de teste e documentos compartilhados. |
-
-
-*Tabela 1: Descrição da tabela (Fonte: MARTINS, mariana. 2026)*
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Google_Gemini_icon_2025.svg/1280px-Google_Gemini_icon_2025.svg.png?_=20250728014952"  width="50"> | **Gemini** | Correções ortográficas, ajuste em textos e pequenas alterações. |
 
 ## Contribuidores
 
