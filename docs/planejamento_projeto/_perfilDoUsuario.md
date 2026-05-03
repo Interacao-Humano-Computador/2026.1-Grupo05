@@ -2,7 +2,9 @@
 
 | Nome do Contribuidor | Tópico desenvolvido |
 | :--- |  :--- |
-| Samuel Leite | [Introdução](#introducao) <br> [Perfil do Usuário ideal](#perfil-usuario) <br> [Referências Bibliográficas](#referencias-bibliograficas) <br> [Bibliografia](#bibliografia) <br> [Histórico de Versões](#historico-de-versoes) | | | 
+| Samuel Leite | [Introdução](#introducao) <br> [Perfil do Usuário ideal](#perfil-usuario) <br> [Referências Bibliográficas](#referencias-bibliograficas) <br> [Bibliografia](#bibliografia) <br> [Histórico de Versões](#historico-de-versoes) | | |
+| Mariana Martins | [Pefil do Usuário: Empresa Contratante](#perfil-usuario-empresa) <br> [Referências Bibliográficas](#referencias-bibliograficas) <br> [Histórico de Versões](#historico-de-versoes)| 
+
 
 
 <a id="introducao"></a>
@@ -44,8 +46,51 @@ Com base nas diretrizes do livro de Interação Humano-Computador (IHC), um perf
 ### 6. Idiomas e Jargões:
 - **Vocabulário do usuário:** Utiliza de forma recorrente os jargões típicos desse ecossistema legal e corporativo, tais como: "Termo de Compromisso" (TCE), "Agente de Integração", "Bolsa-auxílio", "Estágio obrigatório/não obrigatório", "Processo seletivo" e "Carga horária". A plataforma, inclusive, foca a interface nesse linguajar que já é familiar ao estudante.
 </div>
+
+
+
+<div style="text-align: center;"> 
+    <a id="perfil-usuario-empresa"></a>
+    <h1> Perfil de Usuário Ideal: <br> Empresa Contratante
+</div>
+
+<div style="text-align: justify;">
+
+### 1. Dados Organizacionais e Representação:
+- **Perfil da Organização:**  Microempresas, profissionais que buscam por estagiários, grandes corporações e órgãos da administração pública.
+
+- **O Usuário no Sistema:** em sua maioria profissionais de Recursos Huamanos, gestores de departamento e proprietários de pequenas empresas que desjam selecionar novos talentos.
+
+### 2. Conhecimento do Domínio (Regras de Estágio):
+- **Noções da Lei:** O usuário busca a certeza de que o estágio não gera vínculo empregatício, desde que seguidas as normas da Lei 11.788/2008.
+
+- **Obrigações:** Ciência em oferecer instalações que tenham condições de proporcionar ao estagiário atividades de aprendizagem social, profissional e cultural.
+
+- **Papel do Facilitador:** Entende que o site "Super Estágios" atua como facilitador na seleção de esrudantes, na geração de documentos e no seguro contra acidentes pessoais, cuidado da parte burocrática para as empresas.
+
+### 3. Objetivos (Finais e Instrumentais):
+- **Objetivos Principais:** Identificar novos talentos para as empresas interessadas, formar mão de obra qualificada e cumprir uma função social de apredizado para o contratado.
+
+- **Objetivos no Sistema:** Publicar vagas de estágios com requisitos específicos, realizar a seleção de currículos de forma rápida, convocar candidatos para entrevistas e gerenciar a documentação geral dos estagiários ativos.
+
+### 4. Tarefas e Uso do Sistema:
+- **Tarefas Primárias:** Descrever atividades e requisitos de vagas disponíveis, filtrar candidatos por curso, semestre ou localidade e validar o Termo de Compromisso digitalmente.
+
+- **Plataforma:** Utiliza majoritariamente a interface Web em ambiente de escritório. Faz uso em sua maioria de ferramentas dashboard que permitam visualizar o status de múltiplas vagas simultaneamente e o vencimento de contratos.
+
+### 5. Atitudes, Valores e Motivações:
+- **Motivação:** Oferece eficiência e rapidez no recrutamento de estagiários. Facilita o encontro de candidatos que estejam alinhados à cultura da empresa interessada e que possuam a base teórica necessária para as tarefas a eles designadas.
+
+- **Atitude em relação ao Processo:** Deseja reduzir o tempo gasto com triagens feitas de forma manual. Valoriza plataformas que automatizam o econcontro entre o perfil acadêmico do aluno e a necessidade técnica da vaga.
+
+### 6. Idiomas e Jargões:
+- **Vocabulário da Empresa:** utiliza comumente termos como: "Plano de Atividades", "Gestão dos Estagiários", "Supervisor de Estágio", "Processo Prático", "Renovação de Termo", "Rescisão", "Relatório de Atividades" e "Seguro de Vida".
+
+- **Expectativa de Interface:** Encontra-se uma linguagem profissional, direta e reta que transmita autoridade legal sobre as normas do Ministério do Trabalho e Educação.
+
 <a id="referencias-bibliograficas"></a>
-# Referências bibliográficas:
+
+## Referências bibliográficas:
 
 W3C. Essential Components of Web Accessibility. [S. l.], [202-?]. Disponível em: https://www.w3.org/WAI/fundamentals/accessibility-principles/#standards. Acesso em: 11 abr. 2026.
 
@@ -55,7 +100,12 @@ W3C. Web Content Accessibility Guidelines (WCAG) 2.2. Recomendação W3C de 12 d
 
 LEI Nº 11.788, DE  25 DE SETEMBRO DE 2008, DEFINIÇÃO, CLASSIFICAÇÃO E RELAÇÕES DE ESTÁGIO. Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm (Acessado em 01/05/2026)
 
+SUPER ESTÁGIOS. Código de Ética e Conduta. Disponível em: https://s3-web.superestagios.com.br/web/index/CODIGO_ETICA_CONDUTA_SUPER_ESTAGIOS.pdf. Acesso em: 2 maio 2026.
+
+BRASIL. Ministério do Trabalho e Emprego. Cartilha esclarecedora sobre a Lei do Estágio. Brasília, DF: MTE. Disponível em: https://www.inqc.org.br/estagios/Cartilha_Lei_Estagio.pdf. Acesso em: 2 maio 2026.
+
 <a id="bibliografia"></a>
+
 ## Bibliografia
 
 > [1] BARBOSA, S. D. J.; SILVA, B. S. da; SILVEIRA, M. S.; GASPARINI, I.; DARIN, T.; BARBOSA, G. D. J. **Interação Humano-Computador e Experiência do Usuário**. 1. ed. Rio de Janeiro: Autopublicação, 2021.
@@ -68,3 +118,4 @@ LEI Nº 11.788, DE  25 DE SETEMBRO DE 2008, DEFINIÇÃO, CLASSIFICAÇÃO E RELA�
 | Data | Versão | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
 | 01/05/2026 | 1.0 | Elaboração do artefato Perfil do usuário Ideal | Samuel Leite | Pedro Henrique |
+| 02/05/2026 | 2.0 | Elaboração do artefato Perfil do usuário "Empresa" | Mariana Martins | Luis Gustavo |
