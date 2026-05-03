@@ -3,6 +3,7 @@
 | Nome do Contribuidor | Tópico desenvolvido |
 | :--- |  :--- |
 | Samuel Leite |  [Introdução](#introducao) <br> [Roteiro](#roteiro) <br> [Estrutura](#estrutura) <br> [Planejamento de entrevista](#planejamento-entrevista) <br> [Termo de consentimento](#termo-consentimento) <br> [Gravações de entrevistas](#gravacao-entrevista)  <br> [Referências Bibliográficas](#referencias-bibliograficas) <br> [Bibliografia](#bibliografia) <br> [Histórico de Versões](#historico-de-versoes) <br> | | | 
+| Pedro Henrique | Co-autor: [Gravações de entrevistas](#gravacao-entrevista) <br> [Referências Bibliográficas](#referencias-bibliograficas) <br> [Bibliografia](#bibliografia) <br> [Histórico de Versões](#historico-de-versoes) | 
 
 <a id="introducao"></a>
 # Introdução
@@ -378,10 +379,24 @@ Brasília, 30 de abril de 2026.
 O vídeo 1 a seguir mostra a gravação da aplicação da técnica de entrevistas para a coleta de dados e pesquisa envolvendo pessoas.
 ### Vídeo 01
 <iframe width="560" height="315" src="https://youtu.be/B4JWTBcNpLY" frameborder="0" allowfullscreen></iframe>
+<div align="center"><p style="font-size: 0.9em; font-style: italic;">Autor: Samuel Leite</p></div>
+
+
 
 O vídeo 2 a seguir mostra a gravação da aplicação da técnica de entrevistas para a coleta de dados e pesquisa envolvendo pessoas. 
 ### Vídeo 02
 <iframe width="560" height="315" src="https://youtu.be/TpvGB-0WLTE" frameborder="0" allowfullscreen></iframe>
+<div align="center"><p style="font-size: 0.9em; font-style: italic;">Autor: Samuel Leite</p></div>
+
+
+
+O video 3 segue a seguir mostra a gravação da aplicação da técnica de entrevistas para a coleta de dados e pesquisa envolvendo pessoas.
+### Vídeo 03
+
+<iframe width="560" height="315" src="https://youtu.be/jETYs6NWeWM" frameborder="0" allowfullscreen></iframe>
+<div align="center"><p style="font-size: 0.9em; font-style: italic;">Autor: Pedro Henrique</p></div>
+
+
 
 <a id="referencias-bibliograficas"></a>
 # Referências bibliográficas:
@@ -405,3 +420,4 @@ W3C. Web Content Accessibility Guidelines (WCAG) 2.2. Recomendação W3C de 12 d
 | Data | Versão | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
 | 01/05/2026 | 1.0 | Elaboração do artefato Técnica de coleta de dados | Samuel Leite | Pedro Henrique |
+| 02/05/2026 | 1.1 | Adiciona a entrevista 3| Pedro Henrique | Samuel Leite |
