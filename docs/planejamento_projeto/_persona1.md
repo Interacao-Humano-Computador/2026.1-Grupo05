@@ -3,7 +3,6 @@
 | Nome do Contribuidor | Tópico desenvolvido |
 | :--- |  :--- |
 | Samuel Leite |  [Introdução](#introducao) <br> [Identidade](#identidade) <br> [Cenário](#cenario) <br> [Referências Bilbiográficas](#referencias-bibliograficas) <br> [Bibliografia](#bibliografia) <br> [Histórico de versão](#historico-de-versoes) <br>| | | 
-| Pedro | [Identidade Persona 2](#identidade-persona2) <br> [Cenário Persona 2](#cenario-persona2) <br>| | |
 
 <a id="introducao"></a>
 # Introdução
@@ -79,68 +78,6 @@ Atores: Carla Alves Silva (estudante de Eng. de Software e candidata), Administr
 </div>
 
 
----
-
-<a id="identidade-persona2"></a>
-### Identidade (Persona 2):
-- Foto:
-<div align="center">
-  <img src="assets\Persona2.jpg" width="150">
-</div>
-<div align="center"> <p> <i><b>Figura 2:</b> Representação da persona de uma idosa (Lourdes).</i> </p> </div>
-
-- **Nome:** Lourdes
-- **Sobrenome:** Ribeiro Campos
-- **Idade:** 65
-- **Sexo:** Feminino
-- **Gênero:** Cisgênero
-- **Escolaridade:** Superior Cursando
-- **Cargo Atual:** Aposentada e Estudante Universitária
-- **Área de educação:** Pedagogia
-- **Status:** Persona Secundária
-- **Objetivos gerais:** Conseguir um estágio em uma escola próxima para concluir o seu curso e se manter ativa.
-    - **Objetivos de vida:** 
-        - Provar para si mesma que nunca é tarde para aprender e conquistar independência digital.
-    - **Objetivos finais (práticos):** 
-        - Conseguir enviar currículo e documentação de forma autônoma e simples.
-        - Ter uma confirmação visual clara de que suas ações no sistema foram concluídas com sucesso.
-    - **Objetivos instrumentais (experiência):**
-        - Navegar no sistema com uma interface limpa, sem se sentir sobrecarregada por excesso de informações ou jargões da área de tecnologia.
-- **Habilidades:** Baixo letramento digital. Usa o smartphone para trocar mensagens com a família, mas sente insegurança com formulários complexos no computador e não sabe falar inglês.
-- **Tarefas:**
-    - **Básicas:** Buscar vagas de estágio no seu bairro usando filtros simples.
-    - **Críticas:** Preencher o perfil, enviar a documentação e agendar entrevistas.
-    - **Frequência:** 1 a 2 vezes por semana.
-- **Relacionamentos:** Se relaciona com o suporte da plataforma (para tirar dúvidas) e com seu neto (que a auxilia na navegação).
-- **Requisitos:** Interfaces limpas e com acessibilidade visual (fontes grandes e alto contraste), feedback visual claro para cada ação realizada.
-- **Expectativas:** Ela espera que a plataforma não a puna por erros acidentais e que a guie passo a passo, como se alguém a estivesse ajudando presencialmente.
-
-
-### Lourdes Ribeiro, Estudante Universitária - "O aprendizado não tem idade"
-
-<div align="justify">
-Persona: Lourdes Ribeiro Campos – “Simplicidade para quem quer voltar à ativa” <p> Lourdes Ribeiro tem 65 anos, é aposentada e decidiu realizar um antigo sonho: cursar Pedagogia. Ao contrário de seus colegas mais jovens, Lourdes sente dificuldade com a tecnologia. Seu nível de alfabetismo digital é baixo; ela utiliza o celular principalmente para redes sociais, mas fica muito insegura ao lidar com sistemas que ela considera complexos. O seu maior desejo é conseguir um estágio em uma escola infantil para concluir as horas exigidas pelo curso e mostrar que ainda tem muito a contribuir profissionalmente. <p> Lourdes acessa a plataforma cerca de 1 a 2 vezes por semana, muitas vezes precisando da ajuda do seu neto para ler letras pequenas ou entender mensagens de erro não claras. Ela se frustra facilmente quando as páginas têm muita informação agrupada ou quando os botões não indicam com clareza o que fazem. A sua expectativa é que a plataforma de estágios tenha um visual acolhedor, com opções claras e textos explicativos em português simples. Ela quer conseguir buscar vagas perto de sua casa e enviar seus documentos sem o medo de clicar no botão errado e perder todos os seus dados.
-</div>    
-
-#### Objetivos de vida:
-- Manter-se ativa intelectualmente e útil para a sociedade, aprendendo uma nova profissão.
-
-#### Objetivos finais e instrumentais:
-- Encontrar estágios na área da educação com filtros simplificados (por localização).
-- Preencher seu cadastro e anexar os documentos passo a passo, sem pressa.
-- Receber confirmações claras e em destaque de que suas candidaturas foram recebidas com sucesso.
-
-<a id="cenario-persona2"></a>
-## Cenário de Interação: Candidatura com foco em acessibilidade e simplicidade
-
-Atores: Lourdes Ribeiro (estudante de Pedagogia) e Neto da Lourdes (Apoio eventual).
-
-<div align="justify"; style="font-style: italic;">
-    "Em uma manhã de terça-feira, Lourdes liga o computador motivada a procurar seu estágio obrigatório. Ela abre o site da plataforma e fica aliviada ao encontrar um botão de 'Acessibilidade' bem visível, que ela usa para aumentar o tamanho da fonte. Ela acessa a seção de 'Vagas', onde o sistema apresenta um campo grande para digitar o nome da sua cidade e bairro. <p> <p> O resultado mostra uma vaga em uma escola infantil próxima a ela. As instruções da vaga estão organizadas em tópicos simples. Ao clicar no botão 'Me Candidatar', a tela não exige um cadastro complexo de imediato, mas pede para ela preencher as informações uma por uma. Quando o sistema solicita um comprovante de matrícula, Lourdes fica em dúvida de como fazer isso pelo computador, mas clica no ícone de Ajuda ('Precisa de ajuda para enviar seu arquivo?') e assiste a um tutorial rápido em vídeo. <p> Após conseguir anexar o arquivo, ela clica em 'Enviar Documentos'. A tela muda para uma página com um grande sinal verde de "OK" e a mensagem: 'Tudo Certo, Lourdes! Sua candidatura foi enviada. Entraremos em contato com você'. Satisfeita e sentindo-se mais autoconfiante, ela comemora a conquista e aguarda ansiosa pela resposta da escola."
-</div>
-
-<br>
-
 <a id="referencias-bibliograficas"></a>
 # Referências bibliográficas:
 
@@ -159,4 +96,3 @@ Atores: Lourdes Ribeiro (estudante de Pedagogia) e Neto da Lourdes (Apoio eventu
 | Data | Versão | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
 | 01/05/2026 | 1.0 | Elaboração do artefato Técnica de coleta de dados | Samuel Leite | Mariana Martins |
-| 02/05/2026 | 1.1 | Adição da Persona 2 (Idosa) | Pedro |  |

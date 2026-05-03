@@ -13,7 +13,7 @@
     A seguir temos a descrição de identidade e persona.
 </div>
 
-### Identidade (Persona 2):
+### Identidade:
 - Foto:
 <div align="center">
   <img src="..\assets\Persona2.jpg" width="150">
@@ -22,51 +22,51 @@
 
 - **Nome:** Lourdes
 - **Sobrenome:** Ribeiro Campos
-- **Idade:** 65
+- **Idade:** 50
 - **Sexo:** Feminino
 - **Gênero:** Cisgênero
 - **Escolaridade:** Superior Completa
-- **Cargo Atual:** Representante de Empresa
-- **Área de formação:** Administração com especialização em Recursos Humanos
+- **Cargo Atual:** Proprietária de Microempresa
+- **Área de formação:** Administração
 - **Status:** Persona Secundária
-- **Objetivos gerais:** Representar a empresa no Super Estágios, postando vagas de estágio e selecionando candidatos qualificados para promover oportunidades de desenvolvimento profissional.
+- **Objetivos gerais:** Identificar novos talentos para a empresa, formar mão de obra qualificada e cumprir obrigações legais de estágio.
     - **Objetivos de vida:** 
-        - Contribuir para a formação de jovens talentos, compartilhando experiências e oportunidades.
+        - Contribuir para o aprendizado social e profissional de jovens, promovendo inclusão.
     - **Objetivos finais (práticos):** 
-        - Postar vagas atrativas, revisar candidaturas e agendar entrevistas de forma eficiente.
-        - Garantir que a plataforma facilite a interação entre empresa e candidatos.
+        - Publicar vagas com requisitos específicos, selecionar candidatos alinhados e gerenciar documentação.
+        - Garantir conformidade com a Lei do Estágio e oferecer ambiente de aprendizagem.
     - **Objetivos instrumentais (experiência):**
-        - Utilizar ferramentas da plataforma para gerenciar processos de recrutamento, com interfaces acessíveis e feedback claro.
-- **Habilidades:** Experiência em RH e recrutamento, conhecimento em comunicação interpessoal, habilidade para avaliar perfis de candidatos e promover inclusão.
+        - Utilizar dashboards visuais para filtrar currículos e acompanhar processos de contratação.
+- **Habilidades:** Experiência em gestão de microempresa, conhecimento em RH básico, familiaridade com leis trabalhistas e plataformas digitais.
 - **Tarefas:**
-    - **Básicas:** Postar vagas no Super Estágios, monitorar candidaturas recebidas.
-    - **Críticas:** Revisar currículos, selecionar candidatos para entrevistas, agendar reuniões via plataforma.
-    - **Frequência:** Semanal, alinhada ao ciclo de contratações.
-- **Relacionamentos:** Se relaciona com candidatos estudantes, equipe interna da empresa e suporte da plataforma Super Estágios.
-- **Requisitos:** Interface de postagem de vagas intuitiva, com opções de acessibilidade (fontes grandes, alto contraste), notificações de novas candidaturas e ferramentas de agendamento integradas.
-- **Expectativas:** Espera que a plataforma seja confiável e fácil de usar, permitindo focar na seleção de talentos sem barreiras técnicas, seguindo boas práticas de IHC para interações eficazes.
+    - **Básicas:** Descrever atividades de vagas, publicar no Super Estágios e revisar candidaturas.
+    - **Críticas:** Filtrar candidatos por curso e localidade, convocar para entrevistas e validar TCE.
+    - **Frequência:** Semanal, conforme necessidades de contratação.
+- **Relacionamentos:** Se relaciona com estudantes candidatos, supervisores internos e suporte da plataforma.
+- **Requisitos:** Interface web com dashboards para múltiplas vagas, filtros por curso/semestre/localidade e notificações de vencimento de contratos.
+- **Expectativas:** Espera que a plataforma reduza triagens manuais, automatize encontros entre perfil acadêmico e necessidade técnica, transmitindo autoridade legal.
 
 
-### Lourdes Ribeiro, Representante de Empresa - "Conectando talentos no Super Estágios"
+### Lourdes Ribeiro, Proprietária de Microempresa - "Eficiência no recrutamento de estagiários"
 
 <div align="justify">
-Persona: Lourdes Ribeiro Campos – "Facilitadora de oportunidades" <p> Lourdes Ribeiro tem 65 anos e representa uma empresa parceira no Super Estágios, atuando como recrutadora responsável por postar vagas de estágio e selecionar candidatos promissores. Com formação em Administração e especialização em RH, ela traz uma perspectiva experiente, valorizando a inclusão e o desenvolvimento de jovens profissionais. Seu papel é promover a empresa através da plataforma, conectando vagas a estudantes qualificados. <p> Lourdes trabalha semanalmente, focando em ciclos de recrutamento, e utiliza sua experiência para avaliar perfis e promover interações positivas. Ela se preocupa com a acessibilidade da plataforma, assegurando que candidatos de diversos perfis possam se candidatar facilmente. Sua expectativa é que o Super Estágios seja uma ferramenta confiável para recrutamento, permitindo focar na seleção de talentos sem complicações, alinhada a princípios de IHC para interações eficazes.
+Persona: Lourdes Ribeiro Campos – "Gestora focada em formação profissional" <p> Lourdes tem 50 anos e é proprietária de uma microempresa no setor de serviços. Com formação em Administração, ela busca estagiários para integrar sua equipe e contribuir para o desenvolvimento de jovens. Seu foco é contratar candidatos que se adaptem à cultura da empresa e atendam às necessidades técnicas, garantindo conformidade com leis trabalhistas. <p> Lourdes utiliza o Super Estágios para publicar vagas e gerenciar seleções de forma eficiente. Ela valoriza ferramentas que automatizam triagens e facilitam a validação de documentos, permitindo que ela se concentre em entrevistas e no crescimento da empresa. Sua expectativa é que a plataforma transmita autoridade legal e reduza burocracias, promovendo um recrutamento produtivo e inclusivo.
 </div>    
 
 #### Objetivos de vida:
-- Apoiar o crescimento profissional de estudantes, compartilhando oportunidades e experiências valiosas.
+- Apoiar o aprendizado profissional de estudantes e fortalecer a empresa com novos talentos.
 
 #### Objetivos finais e instrumentais:
-- Postar vagas atraentes e detalhadas no Super Estágios, facilitando candidaturas.
-- Revisar currículos e selecionar candidatos para entrevistas, utilizando ferramentas da plataforma.
-- Agendar e conduzir entrevistas virtuais, garantindo processos inclusivos e acessíveis.
+- Publicar vagas detalhadas com requisitos específicos e valores de bolsa-auxílio.
+- Selecionar candidatos alinhados ao perfil acadêmico e cultural da empresa.
+- Gerenciar contratos de estágio e relatórios de atividades de forma digital.
 
-## Cenário de Interação: Recrutamento inclusivo no Super Estágios
+## Cenário de Interação: Publicação eficiente de vaga e seleção de estagiário
 
-Atores: Lourdes Ribeiro (representante de empresa), Candidato Estudante (jovem com necessidades especiais), Suporte da Plataforma Super Estágios.
+Atores: Lourdes Ribeiro (proprietária de microempresa), Candidato Estudante (estudante de Administração), Suporte da Plataforma Super Estágios.
 
 <div align="justify"; style="font-style: italic;">
-    "Em uma manhã de quarta-feira, Lourdes entra no Super Estágios para divulgar uma vaga de estágio em Educação Inclusiva em sua empresa. Ela ativa as configurações de acessibilidade, aumentando o zoom e habilitando o modo de alto contraste para visualizar melhor os campos. Na área de 'Criar Vaga', ela preenche os detalhes: descrição da função, habilidades requeridas e benefícios, adicionando uma nota sobre oportunidades para candidatos com diversidade. Ela seleciona filtros para promover inclusão, como vagas acessíveis, e publica a vaga com um clique, recebendo uma notificação: 'Vaga criada! Compartilhe nas redes sociais para mais alcance.'. <p> <p> Dias depois, Lourdes recebe notificações de candidaturas. Ela filtra por perfis promissores, abrindo o currículo de um estudante com deficiência visual que usou ferramentas de acessibilidade para se candidatar. Impressionada com o perfil, ela agenda uma entrevista virtual diretamente na plataforma, escolhendo um horário conveniente e enviando um lembrete personalizado. Antes da reunião, ela verifica o chat da plataforma para confirmar se o candidato precisa de ajustes, como legendas automáticas ou pausa para perguntas. <p> Durante a entrevista, Lourdes interage de forma acolhedora, focando nas experiências do candidato e no fit com a empresa. Ela utiliza recursos da plataforma para compartilhar materiais visuais adaptados. Ao final, ela seleciona o candidato e envia um feedback positivo via sistema, sentindo-se orgulhosa por promover inclusão através do Super Estágios, que facilitou todo o processo com suas ferramentas acessíveis."
+    "Em uma tarde de terça-feira, Lourdes acessa o Super Estágios no escritório para publicar uma nova vaga de estágio em gestão administrativa. Ela navega pelo dashboard principal, onde visualiza um resumo das vagas ativas e candidaturas pendentes. No painel de 'Criar Vaga', ela descreve as atividades: suporte a processos administrativos, elaboração de relatórios e participação em reuniões. Define filtros por curso (Administração), semestre (a partir do 4º) e localidade (região metropolitana), além de especificar o valor da bolsa-auxílio. Ela publica a vaga e recebe uma notificação automática: 'Vaga publicada! 15 candidatos compatíveis encontrados.'. <p> <p> No dia seguinte, Lourdes retorna ao dashboard para revisar as candidaturas. Utilizando filtros visuais, ela ordena por compatibilidade de perfil e abre o currículo de um estudante de Administração do 5º semestre. Impressionada com as habilidades em Excel e comunicação, ela convoca o candidato para uma entrevista virtual via plataforma, agendando para a semana seguinte e enviando um lembrete com link para a reunião. <p> Antes da entrevista, Lourdes valida o TCE do candidato diretamente no sistema, confirmando a assinatura digital e o plano de atividades. Durante a conversa, ela discute as expectativas da empresa e o potencial de crescimento do estagiário. Satisfeita, ela aprova a contratação e gera o contrato automaticamente, sentindo que a plataforma otimizou o processo, reduzindo tempo manual e garantindo conformidade legal."
 </div>
 
 <a id="referencias-bibliograficas"></a>
@@ -86,4 +86,14 @@ Atores: Lourdes Ribeiro (representante de empresa), Candidato Estudante (jovem c
 
 | Data | Versão | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
-| 02/05/2026 | 1.2 | Modificação do cenário da Persona 2 para foco em recrutamento inclusivo | Pedro Henrique | Samuel Leite |</content>
+| 03/05/2026 | 1.3 | Alinhamento da Persona 2 com perfil da empresa, atualização de identidade, objetivos e cenário | Pedro Henrique | Samuel Leite |
+| 02/05/2026 | 1.2 | Modificação do cenário da Persona 2 para foco em recrutamento inclusivo | Pedro Henrique | Samuel Leite |
+
+## Colaboradores
+
+<div align="center">
+  <p style="font-size: 0.9em; font-style: italic;">Pedro Henrique</p>
+</div>
+<div align="center">
+  <p style="font-size: 0.9em; font-style: italic;">Samuel Leite</p>
+</div></content>
