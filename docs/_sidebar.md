@@ -22,6 +22,7 @@
     * [- Persona 1 ](planejamento_projeto/_persona1.md)
     * [- Persona 2 ](planejamento_projeto/_persona2.md)
     * [- Persona 3 ](planejamento_projeto/_persona3.md)
+    * [- Persona 4 ](planejamento_projeto/_persona4.md)
 
 * **Registros**
   * [Ata de reunião 1](atas/ata1.md)
