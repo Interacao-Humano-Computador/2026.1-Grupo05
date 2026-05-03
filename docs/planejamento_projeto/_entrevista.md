@@ -3,6 +3,7 @@
 | Nome do Contribuidor | Tópico desenvolvido |
 | :--- |  :--- |
 | Samuel Leite |  [Introdução](#introducao) <br> [Roteiro](#roteiro) <br> [Estrutura](#estrutura) <br> [Planejamento de entrevista](#planejamento-entrevista) <br> [Termo de consentimento](#termo-consentimento) <br> [Gravações de entrevistas](#gravacao-entrevista)  <br> [Referências Bibliográficas](#referencias-bibliograficas) <br> [Bibliografia](#bibliografia) <br> [Histórico de Versões](#historico-de-versoes) <br> | | | 
+| Pedro Henrique | Co-autor: [Gravações de entrevistas](#gravacao-entrevista) <br> [Referências Bibliográficas](#referencias-bibliograficas) <br> [Bibliografia](#bibliografia) <br> [Histórico de Versões](#historico-de-versoes) | 
 
 <a id="introducao"></a>
 # Introdução
@@ -380,10 +381,13 @@ O vídeo 1 a seguir mostra a gravação da aplicação da técnica de entrevista
 <iframe width="560" height="315" src="https://youtu.be/B4JWTBcNpLY" frameborder="0" allowfullscreen></iframe>
 <div align="center"><p style="font-size: 0.9em; font-style: italic;">Autor: Samuel Leite</p></div>
 
+
+
 O vídeo 2 a seguir mostra a gravação da aplicação da técnica de entrevistas para a coleta de dados e pesquisa envolvendo pessoas. 
 ### Vídeo 02
 <iframe width="560" height="315" src="https://youtu.be/TpvGB-0WLTE" frameborder="0" allowfullscreen></iframe>
 <div align="center"><p style="font-size: 0.9em; font-style: italic;">Autor: Samuel Leite</p></div>
+
 
 
 O video 3 segue a seguir mostra a gravação da aplicação da técnica de entrevistas para a coleta de dados e pesquisa envolvendo pessoas.
@@ -391,6 +395,7 @@ O video 3 segue a seguir mostra a gravação da aplicação da técnica de entre
 
 <iframe width="560" height="315" src="https://youtu.be/jETYs6NWeWM" frameborder="0" allowfullscreen></iframe>
 <div align="center"><p style="font-size: 0.9em; font-style: italic;">Autor: Pedro Henrique</p></div>
+
 
 
 <a id="referencias-bibliograficas"></a>
