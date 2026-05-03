@@ -4,6 +4,13 @@
 
 O Mapa de Disponibilidade é um recurso gráfico empregado para reconhecer os períodos mais adequados para a realização de encontros em tempo real e atividades em equipe. Ele reúne os horários pessoais de todos os membros em uma única tabela de tempo (dias da semana em relação a horários).
 
+## Contribuidores
+
+| Nome do Contribuidor |
+| :--- |
+| [Mariana Martins](https://github.com/Marianamrts) | 
+| [Samuel Leite](https://github.com/osamuelleite) |
+
 **Figura 1: Heatmap**
 
 <img src="assets/Heatmap.png" width="800"> 
@@ -28,13 +35,6 @@ Os melhores horários para as reuniões em grupo foram definidos em:
 ## Referências:
 
 BARROS, Andre. Ambientacao. Brasília: UnB, 2026. Disponível em: https://aprender3.unb.br/. Acesso em: 9 abr. 2026.
-
-## Contribuidores
-
-| Nome do Contribuidor |
-| :--- |
-| [Mariana Martins](https://github.com/Marianamrts) |
-| [Samuel Leite](https://github.com/osamuelleite) |
 
 ## Histórico de Versão
 
