@@ -15,6 +15,8 @@
 * **Análise de Requisitos I**
   * [Perfil do Usuário](planejamento_projeto/_perfilDoUsuario.md)
   * [Análise de Documentos](planejamento_projeto/_analiseDeDocumentos.md)
+  * [Análises de Tarefas CTT](planejamento_projeto/_analiseTarefasCTT.md)
+  * [Análises de Tarefas HTA](planejamento_projeto/_analiseTarefasHTA.md)
   * [Termo de Consentimento](planejamento_projeto/_termoDeConsentimento.md)
   * [Entrevista](planejamento_projeto/_entrevista.md)
   * [Brainstorming](planejamento_projeto/_brainstorming.md)
