@@ -3,7 +3,8 @@
 
 | Nome do Contribuidor | Tópico desenvolvido |
 | :--- |  :--- |
-| Samuel Leite |  [Introdução](#introducao) <br> [Diagrama de decomposição HTA](#diagrama-hta) <br> [Tabela da Análise Hierárquica de Tarefas (HTA)](#tabela-hta) <br> [Referências Bilbiográficas](#referencias-bibliograficas) <br> [Bibliografia](#bibliografia) <br> [Histórico de versão](#historico-de-versoes) <br>| | | 
+| Samuel Leite |  [Introdução](#introducao) <br> [Diagrama de decomposição HTA](#diagrama-hta) <br> [Tabela da Análise Hierárquica de Tarefas (HTA)](#tabela-hta) <br> [Referências Bilbiográficas](#referencias-bibliograficas) <br> [Bibliografia](#bibliografia) <br> [Histórico de versão](#historico-de-versoes) <br>| 
+| Pedro Henrique | [HTA para Assinatura Digital do TCE via Reconhecimento Facial](#hta-assinatura-facial) <br> [Diagrama de decomposição HTA - Assinatura Facial](#diagrama-hta-assinatura) <br> [Tabela da Análise Hierárquica de Tarefas (HTA) - Assinatura Facial](#tabela-hta-assinatura) |
 
 
 <a id="introducao"></a>
@@ -62,7 +63,54 @@
 <br>
 <br>
 
-<a id="referencias-bibliograficas"></a>
+<a id="hta-assinatura-facial"></a>
+# HTA para Assinatura Digital do TCE via Reconhecimento Facial
+
+<div align="justify">
+    Esta seção apresenta a Análise Hierárquica de Tarefas (HTA) específica para a nova funcionalidade de Assinatura Digital do Termo de Compromisso de Estágio (TCE) via Reconhecimento Facial no sistema Super Estágios. A funcionalidade visa reduzir a carga cognitiva do usuário ao substituir a memorização de senhas por uma operação física rápida, utilizando as capacidades biométricas dos smartphones modernos. Baseado na teoria de Annett e Duncan, a decomposição hierárquica identifica objetivos, subobjetivos, operações e planos, com foco em inputs, ações, feedback e problemas/recomendações para cada etapa crítica.
+</div>
+
+<a id="diagrama-hta-assinatura"></a>
+### Diagrama de Decomposição (HTA) - Assinatura Facial
+
+0. Assinar o TCE digitalmente (1>2>3>4>5)
+ 1. Selecionar método de assinatura
+ 2. Solicitar permissão para câmera (2.1>2.2)
+    - 2.1. Exibir popup de solicitação de permissão
+    - 2.2. Usuário conceder permissão para câmera frontal
+ 3. Posicionar rosto para captura (3.1+3.2)
+    - 3.1. Ajustar posição do rosto no enquadramento
+    - 3.2. Sistema fornecer guia visual em tempo real
+ 4. Processar validação facial
+ 5. Fornecer feedback (5.1/5.2)
+    - 5.1. Exibir confirmação de sucesso na autenticação
+    - 5.2. Exibir alerta para tentar novamente em caso de falha
+
+<a id="tabela-hta-assinatura"></a>
+### Tabela da Análise Hierárquica de Tarefas (HTA) - Assinatura Facial
+
+<p> A tabela a seguir apresenta os detalhes de operações, problemas e recomendações associados à funcionalidade de assinatura digital via reconhecimento facial.
+<br>
+<br>
+
+|Objetivos/ações| Problemas e Recomendações|
+|:---|:---|
+|0. Assinar o TCE digitalmente | **Input:** Chegada na etapa de assinatura do contrato no processo de contratação.<br> **Ação:** Usuário seleciona método de assinatura e completa o processo biométrico.<br> **Feedback:** Confirmação visual de assinatura autenticada com sucesso ou alerta para tentar novamente.<br> **Plano:** Sequencial: selecionar método, solicitar permissão, posicionar rosto, processar validação e fornecer feedback. <br> **Recomendação:** Garantir que o processo seja rápido (menos de 30 segundos) para manter a eficiência e reduzir frustração.|
+|1. Selecionar método de assinatura| **Input:** Tela de assinatura do TCE exibida.<br> **Ação:** Usuário toca na opção 'Assinar com Biometria Facial'.<br> **Feedback:** Destaque visual da opção selecionada.<br> **Problema:** Usuário pode não perceber a opção se não estiver bem destacada.<br> **Recomendação:** Posicionar a opção de biometria facial como padrão ou primeira escolha, com ícone intuitivo de câmera/rosto.|
+|2. Solicitar permissão para câmera 2.1>2.2<br>| **Plano:** Exibir popup primeiro, então aguardar concessão da permissão.|
+|2.1. Exibir popup de solicitação de permissão| **Input:** Seleção do método de assinatura.<br> **Ação:** Sistema mostra popup pedindo acesso à câmera frontal.<br> **Feedback:** Popup visível com explicação breve.<br> **Problema:** Popup pode ser bloqueado por navegador ou dispositivo.<br> **Recomendação:** Garantir compatibilidade com navegadores móveis e fornecer instruções alternativas.|
+|2.2. Usuário conceder permissão para câmera frontal| **Input:** Popup exibido.<br> **Ação:** Usuário clica em "Permitir".<br> **Feedback:** Câmera ativada e tela de captura exibida.<br> **Problema:** Usuário nega permissão.<br> **Recomendação:** Oferecer fallback para método alternativo (ex: senha) e explicar benefícios da biometria.|
+|3. Posicionar rosto para captura 3.1+3.2<br>| **Plano:** Ajuste de posição e guia ocorrem em paralelo para orientação em tempo real.|
+|3.1. Ajustar posição do rosto no enquadramento| **Input:** Permissão concedida.<br> **Ação:** Usuário move o dispositivo ou rosto para alinhar com o oval na tela.<br> **Feedback:** Oval muda de cor (ex: vermelho para verde) quando alinhado.<br> **Problema:** Dificuldade em alinhamento devido a movimento ou iluminação.<br> **Recomendação:** Permitir captura automática quando alinhado, com tolerância a pequenos movimentos.|
+|3.2. Sistema fornecer guia visual em tempo real| **Input:** Rosto detectado.<br> **Ação:** Sistema exibe instruções dinâmicas (ex: "Aproxime mais", "Centralize o rosto").<br> **Feedback:** Texto e ícones atualizados conforme posição.<br> **Problema:** Guias confusas podem frustrar o usuário.<br> **Recomendação:** Usar linguagem simples e ícones universais; testar com usuários para clareza.|
+|4. Processar validação facial| **Input:** Imagem capturada.<br> **Ação:** Sistema processa validação dos pontos focais em background.<br> **Feedback:** Indicador de processamento (ex: spinner "Processando...").<br> **Problema:** Falha na validação devido a óculos, barba ou similaridade com outras faces.<br> **Recomendação:** Usar algoritmos robustos; permitir tentativas múltiplas com feedback específico (ex: "Remova óculos para melhor precisão").|
+|5. Fornecer feedback 5.1/5.2<br>| **Plano:** Seleção baseada no resultado da validação: sucesso ou falha.|
+|5.1. Exibir confirmação de sucesso na autenticação| **Input:** Validação bem-sucedida.<br> **Ação:** Sistema mostra ícone de check e mensagem de sucesso.<br> **Feedback:** TCE assinado digitalmente.<br> **Problema:** Nenhum específico, mas garantir persistência.<br> **Recomendação:** Armazenar assinatura de forma segura e enviar confirmação por e-mail.|
+|5.2. Exibir alerta para tentar novamente em caso de falha| **Input:** Validação falhada.<br> **Ação:** Sistema mostra ícone de alerta e botão "Tentar Novamente".<br> **Feedback:** Redirecionamento para nova tentativa.<br> **Problema:** Falhas repetidas podem desmotivar.<br> **Recomendação:** Limitar tentativas (ex: 3) e oferecer alternativa após falhas.|
+
+<br>
+<br>
+<br>
 # Referências bibliográficas:
 
 >  [1] BARBOSA, S. D. J.; SILVA, B. S. da; SILVEIRA, M. S.; GASPARINI, I.; DARIN, T.; BARBOSA, G. D. J. **Interação Humano-Computador e Experiência do Usuário**. 1. ed. Rio de Janeiro: Autopublicação, 2021.
@@ -83,3 +131,4 @@
 | Data | Versão | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
 | 01/05/2026 | 1.0 | Elaboração do artefato Técnica de coleta de dados | Samuel Leite | Mariana Martins |
+| 03/05/2026 | 1.1 | Adição da HTA para Assinatura Digital do TCE via Reconhecimento Facial | Pedro Henrique | Samuel Leite |

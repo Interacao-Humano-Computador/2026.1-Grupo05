@@ -17,7 +17,7 @@
 ### Identidade:
 - Foto:
 <div align="center">
-  <img src="..\assets\Persona2.png" width="150">
+  <img src="assets\Persona2.png" width="150">
 </div>
 <div align="center"> <p> <i><b>Figura 1:</b> Representação de uma persona (Fonte: https://thispersondoesnotexist.com/ acessado em: 02/05/2026).</i> </p> </div>
 
