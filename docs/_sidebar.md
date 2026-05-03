@@ -24,7 +24,9 @@
   * [Termo de Consentimento](planejamento_projeto/_termoDeConsentimento.md)
   * [Entrevista](planejamento_projeto/_entrevista.md)
   * [Brainstorming](planejamento_projeto/_brainstorming.md)
-  * [Persona](planejamento_projeto/_persona1.md)
+  * [Personas](planejamento_projeto/_persona1.md)
+    * [- Persona 1 ](planejamento_projeto/_persona1.md)
+    * [- Persona 2 ](planejamento_projeto/_persona2.md)
 
 * **Registros**
   * [Ata de reunião 1](atas/ata1.md)
