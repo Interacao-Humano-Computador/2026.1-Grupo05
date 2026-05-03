@@ -3,7 +3,7 @@
 | Nome do Contribuidor | Tópico desenvolvido |
 | :--- |  :--- |
 | Samuel Leite |  [Introdução](#introducao) <br> [Roteiro](#roteiro) <br> [Estrutura](#estrutura) <br> [Planejamento de entrevista](#planejamento-entrevista) <br> [Termo de consentimento](#termo-consentimento) <br> [Gravações de entrevistas](#gravacao-entrevista)  <br> [Referências Bibliográficas](#referencias-bibliograficas) <br> [Bibliografia](#bibliografia) <br> [Histórico de Versões](#historico-de-versoes) <br> | | | 
-| Pedro Henrique | Co-autor: [Gravações de entrevistas](#gravacao-entrevista) <br> [Referências Bibliográficas](#referencias-bibliograficas) <br> [Bibliografia](#bibliografia) <br> [Histórico de Versões](#historico-de-versoes) | 
+| Pedro Henrique |[Gravações de entrevistas](#gravacao-entrevista) <br> [Referências Bibliográficas](#referencias-bibliograficas) <br> [Bibliografia](#bibliografia) <br> [Histórico de Versões](#historico-de-versoes) | 
 
 <a id="introducao"></a>
 # Introdução

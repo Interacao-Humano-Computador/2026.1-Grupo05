@@ -17,7 +17,7 @@
 ### Identidade:
 - Foto:
 <div align="center">
-  <img src="..\assets\Persona2.png" width="150">
+  <img src="assets\Persona2.png" width="150">
 </div>
 <div align="center"> <p> <i><b>Figura 1:</b> Representação de uma persona (Fonte: https://thispersondoesnotexist.com/ acessado em: 02/05/2026).</i> </p> </div>
 
@@ -63,12 +63,12 @@ Persona: Lourdes Ribeiro Campos – "Gestora focada em formação profissional" 
 - Gerenciar contratos de estágio e relatórios de atividades de forma digital.
 
 <a id="cenario-persona2"></a>
-## Cenário de Interação: Publicação eficiente de vaga e seleção de estagiário
+## Cenário de Interação: Seleção e formalização de estágio com reconhecimento facial
 
 Atores: Lourdes Ribeiro (proprietária de microempresa), Candidato Estudante (estudante de Administração), Suporte da Plataforma Super Estágios.
 
 <div align="justify"; style="font-style: italic;">
-    "Em uma tarde de terça-feira, Lourdes acessa o Super Estágios no escritório para publicar uma nova vaga de estágio em gestão administrativa. Ela navega pelo dashboard principal, onde visualiza um resumo das vagas ativas e candidaturas pendentes. No painel de 'Criar Vaga', ela descreve as atividades: suporte a processos administrativos, elaboração de relatórios e participação em reuniões. Define filtros por curso (Administração), semestre (a partir do 4º) e localidade (região metropolitana), além de especificar o valor da bolsa-auxílio. Ela publica a vaga e recebe uma notificação automática: 'Vaga publicada! 15 candidatos compatíveis encontrados.'. <p> <p> No dia seguinte, Lourdes retorna ao dashboard para revisar as candidaturas. Utilizando filtros visuais, ela ordena por compatibilidade de perfil e abre o currículo de um estudante de Administração do 5º semestre. Impressionada com as habilidades em Excel e comunicação, ela convoca o candidato para uma entrevista virtual via plataforma, agendando para a semana seguinte e enviando um lembrete com link para a reunião. <p> Antes da entrevista, Lourdes valida o TCE do candidato diretamente no sistema, confirmando a assinatura digital e o plano de atividades. Durante a conversa, ela discute as expectativas da empresa e o potencial de crescimento do estagiário. Satisfeita, ela aprova a contratação e gera o contrato automaticamente, sentindo que a plataforma otimizou o processo, reduzindo tempo manual e garantindo conformidade legal."
+    "Em uma quarta-feira à noite, Lourdes acessa o Super Estágios no seu smartphone para dar continuidade ao processo de seleção. Ela navega pelo dashboard de candidatos e encontra um estudante de Administração do 5º semestre que se destaca pelo desempenho em sua entrevista. Após revisar o currículo e as notas da entrevista (conforme as tarefas descritas em <a href='_analiseTarefasHTA.md#hta-assinatura-facial'>HTA - Assinatura Facial (Objetivo 3 e 4)</a>), ela aprova o candidato para a etapa final: <strong>formalização da contratação com assinatura biométrica do TCE</strong>. <p> <p> Lourdes envia ao candidato um link para iniciar o processo de assinatura digital. No dia seguinte, o candidato recebe a notificação e acessa o Super Estágios. O sistema apresenta o Termo de Compromisso de Estágio (TCE) na tela e oferece duas opções: assinar com senha tradicional (GOV.BR) ou com <strong>Reconhecimento Facial</strong>. O candidato seleciona a opção biométrica, conforme descrito na <a href='_analiseTarefasCTT.md#ctt-assinatura-facial'>CTT - Assinatura Facial (T₁.₁ - Selecionar biometria facial)</a>. <p> <p> <strong>Processo de Validação Facial:</strong> O sistema solicita permissão para acessar a câmera frontal do smartphone (<a href='_analiseTarefasHTA.md#hta-assinatura-facial'>HTA 2.1 e 2.2</a>). Após concessão, o candidato é guiado a posicionar seu rosto dentro do enquadramento visual (<a href='_analiseTarefasHTA.md#hta-assinatura-facial'>HTA 3.1 e 3.2</a>). Quando o rosto está corretamente posicionado, o sistema captura a imagem e processa a validação biométrica em background (<a href='_analiseTarefasHTA.md#hta-assinatura-facial'>HTA 4.0</a>). Em menos de 10 segundos, a validação é concluída e a assinatura é registrada no sistema. <p> <p> <strong>Confirmação em Dashboard de Lourdes:</strong> Quando o candidato completa a assinatura facial com sucesso (<a href='_analiseTarefasHTA.md#hta-assinatura-facial'>HTA 5.1</a>), Lourdes recebe uma notificação no seu dashboard: <em>"TCE do candidato assinado e validado com sucesso via reconhecimento facial"</em>. Ela visualiza o status atualizado do contrato, contendo a confirmação de autenticação biométrica, data/hora e validade. O processo, que anteriormente exigia redirecionamento manual para o GOV.BR e retorno à plataforma, agora ocorre de forma integrada e segura em uma única jornada (<a href='_analiseTarefasCTT.md#ctt-assinatura-facial'>conforme CTT T₄ - Formalizar Contratação</a>). <p> <p> Satisfeita com a eficiência e segurança do processo, Lourdes finaliza a contratação e envia um e-mail de boas-vindas ao novo estagiário. A plataforma automaticamente: (1) registra o TCE assinado no sistema de documentação, (2) sincroniza a informação com os órgãos reguladores (se aplicável), e (3) ativa o acesso do estagiário ao ambiente de trabalho colaborativo. Lourdes percebe que a integração do reconhecimento facial otimizou a experiência, reduzindo tempo burocrático e aumentando a confiança na autenticidade do contrato."
 </div>
 
 <a id="referencias-bibliograficas"></a>
@@ -88,6 +88,7 @@ Atores: Lourdes Ribeiro (proprietária de microempresa), Candidato Estudante (es
 
 | Data | Versão | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
+| 03/05/2026 | 1.4 | Integração do cenário com reconhecimento facial e conexão com análises HTA e CTT para assinatura biométrica do TCE | Pedro Henrique | Samuel Leite |
 | 03/05/2026 | 1.3 | Alinhamento da Persona 2 com perfil da empresa, atualização de identidade, objetivos e cenário | Pedro Henrique | Samuel Leite |
 | 02/05/2026 | 1.2 | Modificação do cenário da Persona 2 para foco em recrutamento inclusivo | Pedro Henrique | Samuel Leite |
 
