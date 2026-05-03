@@ -82,6 +82,8 @@ Perguntas Iniciais (focadas no perfil):
 
 ### 3. Regras da Sessão
 
+Diagrama de afinidade: utilizaremos o diagrama de afinidade de forma adaptada, faremos um levantamento de todas as idéias mencionadas, iremos fazer uma lista de todas elas e pedi para os participantes classificar as que mais julgarem importantes.
+
 Durante o brainstorming, o moderador deve garantir que as seguintes regras sejam cumpridas:
 Tudo é válido: Por ser um "sistema ideal", não deve haver autocensura. Os estudantes devem exercitar a criatividade livremente.
 
