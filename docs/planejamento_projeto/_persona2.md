@@ -13,10 +13,11 @@
     A seguir temos a descrição de identidade e persona.
 </div>
 
+<a id="identidade-persona2"></a>
 ### Identidade:
 - Foto:
 <div align="center">
-  <img src="..\assets\Persona2.jpg" width="150">
+  <img src="..\assets\Persona2.png" width="150">
 </div>
 <div align="center"> <p> <i><b>Figura 1:</b> Representação de uma persona (Fonte: https://thispersondoesnotexist.com/ acessado em: 02/05/2026).</i> </p> </div>
 
@@ -61,6 +62,7 @@ Persona: Lourdes Ribeiro Campos – "Gestora focada em formação profissional" 
 - Selecionar candidatos alinhados ao perfil acadêmico e cultural da empresa.
 - Gerenciar contratos de estágio e relatórios de atividades de forma digital.
 
+<a id="cenario-persona2"></a>
 ## Cenário de Interação: Publicação eficiente de vaga e seleção de estagiário
 
 Atores: Lourdes Ribeiro (proprietária de microempresa), Candidato Estudante (estudante de Administração), Suporte da Plataforma Super Estágios.
