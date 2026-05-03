@@ -11,6 +11,11 @@
   * [Processo de Design](planejamento_projeto/_processoDesign.md)
   * [Cronograma](planejamento_projeto/_cronograma.md)
   * [Cronograma Executado](planejamento_projeto/_cronogramaExecutado.md)
+  * [Perfil do Usuário](planejamento_projeto/_perfilDoUsuario.md)
+  * [Termo de Consentimento](planejamento_projeto/_termoDeConsentimento.md)
+  * [Entrevista](planejamento_projeto/_entrevista.md)
+  * [Brainstorming](planejamento_projeto/_brainstorming.md)
+  * [Persona](planejamento_projeto/_persona1.md)
 
 * **Registros**
   * [Ata de reunião 1](atas/ata1.md)
