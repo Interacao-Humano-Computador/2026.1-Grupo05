@@ -1,11 +1,13 @@
 # Análise de Documentos – Super Estágios
 
-| Nome do Contribuidor |
-| :--- |
-| [Mariana Martins](https://github.com/Marianamrts) | 
-| [Samuel Leite](https://github.com/osamuelleite) |
+| Nome do Contribuidor | Tópico Desenvolvido |
+| :--- | :--- |
+|[Luis Gustavo](https://github.com/Luiskr34)|[Introdução](#introdução) <br> [Análise](#analise) <br> [Referências Bibliográficas](#referencias-bibliograficas) <br> [Histórico de Versões](#historico-de-versoes) |||
+| [Mariana Martins]()| [Tabela de Contribuição](#tabela-de-contribuicao) || 
 
-## Introdução
+<a id="introducao"></a>
+<div style="text-align: justify;">
+<h3> Introdução</h3>
 
 A análise de documentos é uma técnica de elicitação de requisitos na 
 qual o analista coleta documentos existentes relacionados ao sistema e 
@@ -25,7 +27,9 @@ Estágios, a Política de Tratamento de Dados, a Cartilha da Lei do
 Estágio (Lei nº 11.788/2008) e a Lei Geral de Proteção de Dados 
 Pessoais (Lei nº 13.709/2018 — LGPD).
 
-## Análise
+<a id="introducao"></a>
+<div style="text-align: justify;">
+<h3> Análise</h3>
 
 ### Documento 1 – Política de Privacidade (superestagios.com.br)
 
