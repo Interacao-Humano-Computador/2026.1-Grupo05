@@ -4,6 +4,7 @@
 | Nome do Contribuidor | Tópico desenvolvido |
 | :--- |  :--- |
 | Samuel Leite |  [Introdução](#introducao) <br> [Árvores de Tarefas Concorrentes (ConcurTaskTrees– CTT)](#analise-ctt) <br> [Diagrama da Análise de tarefas concorrentes (ConcurTaskTrees–CTT)](#diagrama-ctt) <br> [Referências Bilbiográficas](#referencias-bibliograficas) <br> [Bibliografia](#bibliografia) <br> [Histórico de versão](#historico-de-versoes) <br>|
+| Pedro Henrique | [CTT para Assinatura Digital do TCE via Reconhecimento Facial](#ctt-assinatura-facial) <br> [Análise de Tarefas (CTT) - Assinatura Digital do TCE via Reconhecimento Facial](#analise-ctt-assinatura) <br> [Diagrama de análise de tarefas CTT - Assinatura Facial](#diagrama-ctt-assinatura) <br> 
 
 
 <a id="introducao"></a>
@@ -73,6 +74,58 @@ O Diagrama 1 a seguir represeta a análise de tarefas realizadas pela persona Ca
 </div>
 <div align="center"> <p> <i><b>Figura 1:</b> Diagrama CTT. Fonte: Elaboração própria</i> </p> </div>
 
+<br>
+<br>
+<br>
+
+<a id="ctt-assinatura-facial"></a>
+# CTT para Assinatura Digital do TCE via Reconhecimento Facial
+
+<div align="justify">
+    <p>Esta seção apresenta a modelagem utilizando o método de Árvores de Tarefas Concorrentes (CTT - ConcurTaskTrees) para a nova funcionalidade de Assinatura Digital do Termo de Compromisso de Estágio (TCE) via Reconhecimento Facial no sistema Super Estágios. A funcionalidade visa reduzir a carga cognitiva do usuário, substituindo senhas por uma operação física rápida através das capacidades biométricas dos smartphones.</p>
+    <p>Aplicando o modelo CTT para o contexto de formalização de contratação onde o candidato necessita assinar o TCE de forma segura e rápida, desenvolvemos a seguinte árvore de tarefas concorrentes:</p>
+</div>
+
+### Análise de Tarefas (CTT) - Assinatura Digital do TCE via Reconhecimento Facial
+<div align="justify">
+    <ul>
+        <li><strong>T0: Assinar TCE com Reconhecimento Facial (Tarefa Abstrata)</strong> O candidato completa a assinatura do Termo de Compromisso através de validação biométrica integrada.</li>
+        <ul>
+            <li><strong>Decomposição de T0:</strong> T1: Selecionar método de assinatura (Interativa) >> T2: Configurar e validar câmera (Abstrata) >> T3: Capturar e processar dados biométricos (Abstrata) >> T4: Confirmar assinatura (Interativa).</li>
+        </ul>
+        <li><strong>T1: Selecionar método de assinatura (Tarefa Interativa)</strong> O candidato escolhe a opção de biometria facial como método preferencial de autenticação.</li>
+        <ul>
+            <li><strong>Decomposição de T1:</strong> T1.1: Visualizar opções de assinatura (Interativa) >> T1.2: Selecionar "Assinar com Biometria Facial" (Interativa) >> T1.3: Sistema confirma seleção (Sistema).</li>
+            <li><strong>Operador: >> (Ativação Sequencial)</strong> Cada etapa depende da anterior para prosseguir.</li>
+        </ul>
+        <li><strong>T2: Configurar e validar câmera (Tarefa Abstrata)</strong> O sistema prepara o ambiente para captura biométrica e solicita permissões necessárias.</li>
+        <ul>
+            <li><strong>Decomposição de T2:</strong> T2.1: Sistema solicita permissão de câmera (Sistema) >> T2.2: Candidato conceder permissão (Usuário) >> T2.3: Validar acesso à câmera (Sistema).</li>
+            <li><strong>Operador: >> (Ativação com Passagem de Informação []>>)</strong> O resultado da permissão é passado para validação.</li>
+        </ul>
+        <li><strong>T3: Capturar e processar dados biométricos (Tarefa Abstrata)</strong> O rosto do candidato é capturado, posicionado e validado de forma segura.</li>
+        <ul>
+            <li><strong>Decomposição de T3: T3.1:</strong> Posicionar rosto no enquadramento (Usuário) |[]| T3.2: Fornecer orientações de posição em tempo real (Sistema) (A concorrência e comunicação |[]| indica que o usuário se posiciona enquanto o sistema oferece feedback simultâneo).</li>
+            <li><strong>Após T3.1 e T3.2 completadas:</strong> T3.3: Capturar imagem biométrica (Sistema) >> T3.4: Processar validação facial em background (Sistema) >> T3.5: Notificar resultado (Sucesso ou Falha) (Sistema) [].</li>
+            <li><strong>Operador: [] (Escolha)</strong> O sistema informa sucesso ou falha, levando a desfechos diferentes.</li>
+        </ul>
+        <li><strong>T4: Confirmar assinatura (Tarefa Interativa)</strong> O candidato visualiza a confirmação de sucesso e concluir o processo.</li>
+        <ul>
+            <li><strong>Decomposição de T4:</strong> T4.1: Exibir confirmação visual de assinatura (Sistema) >> T4.2: Candidato visualiza termo assinado (Usuário) >> T4.3: Sistema envia confirmação por e-mail e notifica Lourdes (Sistema).</li>
+            <li><strong>Operador: >> (Ativação Sequencial)</strong> Cada etapa depende da conclusão anterior.</li>
+        </ul>
+    </ul>
+</div>
+
+<a id="diagrama-ctt-assinatura"></a>
+### Diagrama de análise de tarefas CTT - Assinatura Facial
+O diagrama a seguir representa graficamente a árvore de tarefas concorrentes para a assinatura facial:
+<div align="center">
+  <img src="assets/IHC_CCT_claro.drawio.png" width="100%">
+</div>
+<div align="center"> <p> <i><b>Figura 2:</b> Diagrama CTT para Assinatura Facial. Fonte: Elaboração própria</i> </p> </div>
+
+
 
 
 <a id="referencias-bibliograficas"></a>
@@ -94,4 +147,6 @@ O Diagrama 1 a seguir represeta a análise de tarefas realizadas pela persona Ca
 
 | Data | Versão | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
+| 03/05/2026 | 1.2 | Padronização e expansão da CTT para Assinatura Digital do TCE via Reconhecimento Facial com cenário de interação conectado à Persona 2 | Pedro Henrique | Samuel Leite |
 | 01/05/2026 | 1.0 | Elaboração do artefato Técnica de coleta de dados | Samuel Leite | Mariana Martins |
+| 03/05/2026 | 1.1 | Adição da CTT para Assinatura Digital do TCE via Reconhecimento Facial | Pedro Henrique | Samuel Leite |
