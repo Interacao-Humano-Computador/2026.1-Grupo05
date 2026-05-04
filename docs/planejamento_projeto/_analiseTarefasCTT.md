@@ -117,16 +117,23 @@ O Diagrama 1 a seguir represeta a análise de tarefas realizadas pela persona Ca
     </ul>
 </div>
 
-<a id="diagrama-ctt-assinatura"></a>
-### Diagrama de análise de tarefas CTT - Assinatura Facial
-O diagrama a seguir representa graficamente a árvore de tarefas concorrentes para a assinatura facial:
+<a id="diagrama-ctt-novavaga"></a>
+### Diagrama de análise de tarefas CTT - Nova Vaga
+O diagrama a seguir representa graficamente a árvore de tarefas concorrentes para a Criação de uma Nova Vaga:
 <div align="center">
-  <img src="assets/IHC_CCT_claro.drawio.png" width="100%">
+  <img src="" width="100%">
 </div>
-<div align="center"> <p> <i><b>Figura 2:</b> Diagrama CTT para Assinatura Facial. Fonte: Elaboração própria</i> </p> </div>
+<div align="center"> <p> <i><b>Figura 2:</b> Diagrama CTT para Nova Vaga. Fonte: Elaboração própria</i> </p> </div>
 
 
+<a id="ctt-nova-vaga"></a>
+# CTT para Nova Vaga
 
+Esta seção apresenta a modelagem utilizando o método de Árvores de Tarefas Concorrentes (CTT - ConcurTaskTrees) para a funcionalidade de Cadastro de Novas Vagas no sistema de integração universidade e empresa. O objetivo desta análise é mapear a interação entre o recrutador e a plataforma, otimizando o fluxo de trabalho para que a publicação de oportunidades seja intuitiva e livre de ambiguidades, mantendo o usuário informado sobre o estado do sistema em cada etapa.
+</div>
+
+
+<div align="justify"> <ul> <li><strong>T0: Recrutador cadastra nova vaga</strong> O recrutador preenche as informações de título, competências e remuneração, e publica a vaga no sistema.</li> <ul> <li><strong>Decomposição de T0:</strong> T1: Informar título da vaga (Interativa) >> T2: Selecionar competências (Interativa) >> T3: Definir remuneração (Interativa) >> T4: Confirmar publicação (Interativa).</li> </ul> <li><strong>T1: Informar título da vaga (Tarefa Interativa)</strong> O recrutador insere o título do cargo e recebe sugestões para evitar ambiguidade.</li> <ul> <li><strong>Decomposição de T1:</strong> T1.1: Preencher campo título (Usuário) >> T1.2: Sistema sugerir títulos padrão (Sistema) >> T1.3: Recrutador escolher entre sugestão ou título original (Interativa).</li> <li><strong>Operador: >> (Ativação Sequencial) com [] (Escolha) implícita</strong> O sistema apresenta sugestões, e o recrutador decide qual título manter.</li> </ul> <li><strong>T2: Selecionar competências (Tarefa Interativa)</strong> O recrutador escolhe requisitos técnicos e comportamentais a partir de uma lista categorizada.</li> <ul> <li><strong>Decomposição de T2:</strong> T2.1: Visualizar categorias de competências (Sistema) >> T2.2: Navegar/expandir categorias (Usuário) >> T2.3: Selecionar competências via tags (Usuário) >> T2.4: Sistema armazenar seleção (Sistema).</li> <li><strong>Operador: >> (Ativação Sequencial)</strong> Cada etapa ocorre em ordem, garantindo que o sistema exiba as opções antes da seleção.</li> </ul> <li><strong>T3: Definir remuneração (Tarefa Interativa)</strong> O recrutador informa o valor da bolsa e os benefícios oferecidos, com validação automática.</li> <ul> <li><strong>Decomposição de T3: T3.1:</strong> Inserir valor da bolsa com máscara monetária (Usuário) |[]| T3.2: Marcar benefícios (Usuário) (a concorrência com comunicação |[]| indica que o recrutador pode preencher ambos os campos em qualquer ordem, com o sistema validando simultaneamente).</li> <li><strong>Após T3.1 e T3.2 completadas:</strong> T3.3: Sistema validar se valor > 0 (Sistema) >> T3.4: Notificar resultado (sucesso ou aviso) (Sistema) [].</li> <li><strong>Operador: [] (Escolha)</strong> Se o valor for zero, o sistema exibe um aviso sobre vaga não remunerada e solicita confirmação.</li> </ul> <li><strong>T4: Confirmar publicação (Tarefa Interativa)</strong> O recrutador revisa um resumo da vaga e confirma a publicação.</li> <ul> <li><strong>Decomposição de T4:</strong> T4.1: Acionar botão "Publicar vaga" (Usuário) >> T4.2: Sistema exibir resumo de todos os campos preenchidos (Sistema) >> T4.3: Recrutador confirmar (Usuário) ou cancelar (Usuário) [].</li> <li><strong>Operador: [] (Escolha)</strong> O recrutador pode confirmar a publicação ou cancelar e retornar à edição.</li> </ul> </ul> </div>
 
 <a id="referencias-bibliograficas"></a>
 # Referências bibliográficas:
