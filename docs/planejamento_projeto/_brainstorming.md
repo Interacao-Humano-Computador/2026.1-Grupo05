@@ -4,7 +4,7 @@
 
 | Nome do Contribuidor | Tópico desenvolvido |
 | :--- |  :--- |
-| Mariana Martins |  [Introdução](#introducao) <br> [Ajuste e Inserção do Roteiro](#roteiro) <br> [Bibliografia](#bibliografia) <br> [Histórico de Versões](#historico-de-versoes) <br>||
+| Mariana Martins |  [Introdução](#introducao) <br> [Ajuste e Inserção do Roteiro](#roteiro) <br> [Bibliografia](#bibliografia) <br> [Histórico de Versões](#historico-de-versoes) <br>  [Análise dos Resultados](#Resultados) <br>||
 | Pedro Henrique | [Criação do Roteiro](#roteiro) <br> ||
 | Samuel Leite | [Aplicação da Técnica](#gravacao) <br> ||
 | Arthur Mezzaroba | [Aplicação da Técnica](#gravacao-extra) <br> ||
@@ -114,6 +114,8 @@ Com os formulários preenchidos, a equipe deve:
 - 3.  Comparar os resultados com as funcionalidades que vocês já existem. Se os estudantes sugerirem algo muito inesperado, vocês podem revisar o áudio da sessão para entender o porquê consideraram aquilo importante.
 
 
+<a id="resultados"></a>
+## Análise dos Resultados
 
 <a id="bibliografia"></a>
 ## Bibliografia
