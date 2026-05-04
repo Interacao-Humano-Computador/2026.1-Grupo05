@@ -117,6 +117,69 @@ Com os formulários preenchidos, a equipe deve:
 <a id="resultados"></a>
 ## Análise dos Resultados
 
+**Diagrama de Afinidade – Melhorias para o Portal de Estágios**
+
+Com base no brainstorming realizado, as ideias foram agrupadas por semelhança. Os **itens mais escolhidos** estão marcados com X.
+
+## 1. Navegação e Jornada do Usuário
+- não abrir várias abas – Participante 5  
+- Evitar abertura de novas abas – Participante 7  
+- Jornada contínua (não voltar para etapas anteriores) – Participante 7  
+- Interface intuitiva para encontrar vagas – Participante 1  
+- Banners clicáveis que levam diretamente às vagas – Participante 6  
+- Site não deve ser contra intuitivo na busca por curso – Participante 8  
+
+## 2. Busca, Filtros e Níveis de Busca
+- Filtro por localidades e salários – Participante 2  
+- Melhorar filtros para área de tecnologia – Participante 6  
+- X **Melhorar os níveis de busca** – mencionado como prioridade  
+- Apresentar o número de vagas – Participante 3  
+- Mostrar pesquisas relacionadas – Participante 4  
+- Facilitar a pesquisa geral (mais níveis de refinamento)  
+
+## 3. Informações da Empresa e da Vaga
+- Informações da empresa e contato – Participante 1  
+- Descrição da empresa – Participante 3  
+- Descrição da vaga – Participante 3  
+- Informações da vaga simples, com opção de ver mais detalhes – Participante 7  
+- Apresentar número de vagas disponíveis – Participante 3  
+
+## 4. X Avaliação da Empresa (pelos estagiários)
+- Aba com avaliação da empresa feita por estagiários – Participante 2  
+- **Mais escolhido** – Participante 2 e priorizado pelo grupo  
+
+## 5. Interface, Cores e Tema
+- X **Contraste de cores** – prioridade do grupo  
+- Tema escuro – Participante 4  
+- Interface intuitiva (já citado na navegação)  
+
+## 6. Perfil e Personalização
+- X **Alterar informações do perfil** – Participante 3 e prioridade  
+- Avaliação de perfil para sugerir vagas compatíveis – Participante 8  
+- Informar estágios semelhantes ao curso do usuário – Participante 8  
+
+## 7. Acessibilidade e Inclusão
+- X **Vagas específicas para Pessoas com Deficiência (PCD)** e grupos específicos – Participante 8, prioridade do grupo  
+- Contraste de cores (também auxilia acessibilidade visual)  
+- Tema escuro (opção para baixa luminosidade)  
+
+## 8. Recomendações e Matching
+- Vagas recomendadas baseadas no curso – Participante 8  
+- Avaliação de perfil para casamento com vagas – Participante 8  
+- Mostrar estágios com maior semelhança ao curso – Participante 8  
+
+## Resumo das prioridades (mais escolhidos)
+
+| Prioridade | Item |
+|------------|------|
+| 1 | Aba de avaliação da empresa (estagiários) |
+| 2 | Contraste de cores |
+| 3 | Vagas específicas para PCD e grupos |
+| 4 | Alteração de informações pessoais |
+| 5 | Melhorar os níveis de busca |
+
+Esses itens devem ser tratados como **alto valor** no planejamento de melhorias do sistema.
+
 <a id="bibliografia"></a>
 ## Bibliografia
 
@@ -128,3 +191,4 @@ Com os formulários preenchidos, a equipe deve:
 | Data | Versão | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
 | 03/05/2026 | 1.0 | Elaboração do artefato Brainstorming | Mariana Martins | Arthur Mezzaroba |
+| 03/05/2026 | 1.2 | Inserção dos resultados  | Mariana Martins | Pedro Henrique |
