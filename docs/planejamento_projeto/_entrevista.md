@@ -396,7 +396,96 @@ O video 3 segue a seguir mostra a gravação da aplicação da técnica de entre
 <iframe width="560" height="315" src="https://youtu.be/jETYs6NWeWM" frameborder="0" allowfullscreen></iframe>
 <div align="center"><p style="font-size: 0.9em; font-style: italic;">Autor: Pedro Henrique</p></div>
 
+<br>
 
+<a id="resultados-entrevista3"></a>
+### Resultados da Entrevista 3 (Vídeo 03)
+
+**Etapa 3: Coleta de dados demográficos do entrevistado**
+
+
+- **Idade:** 20 anos
+- **Identificação de Gênero:** Cisgênero (Feminino)
+- **Curso:** Fisioterapia
+
+**Dados Demográficos e Socioeconômicos:**
+- **Cargo atual:** Estudante Universitária (em busca de estágio)
+- **Experiência no cargo:** Cursando o 4º semestre do ensino superior (fase de transição para o ciclo clínico)
+- **Tempo na empresa:** Não se aplica
+- **Responsabilidades:** Aulas teóricas, aulas práticas em laboratório de anatomia/cinesiologia, estudos e busca ativa por vagas de estágio na área da saúde.
+- **Trabalhos e cargos anteriores:** Apenas trabalhos informais ou de atendimento ao público, sem relação direta com a área da saúde.
+- **Plano de carreira:** Conseguir um estágio em um grande hospital ou clínica de reabilitação esportiva, ganhar experiência prática com pacientes, formar-se e abrir o próprio consultório no futuro.
+- **Tamanho da empresa alvo / Área de atuação:** Clínicas de Reabilitação, Hospitais ou Clubes Esportivos / Saúde (Fisioterapia).
+
+**Educação:**
+- **Grau de instrução:** Ensino Superior Cursando.
+- **Área de formação:** Fisioterapia (Ciências Biológicas e da Saúde).
+- **Cursos realizados:** Cursos livres de massoterapia, anatomia palpatória e primeiros socorros.
+- **Hábito de leitura:** Bem (Lê com frequência artigos científicos, laudos e livros densos de anatomia e fisiologia humana).
+- **Dificuldade com informação impressa:** Não.
+- **Disposição a ler texto em produtos:** Sim, mas prefere que as informações importantes da vaga (como local, valor da bolsa e carga horária) estejam destacadas e não perdidas num bloco de texto gigante.
+- **Estilo de aprendizado:** Prefere aprender observando outras pessoas (valoriza a figura do "preceptor" ou professor clínico) e "fazendo" (profissão essencialmente prática).
+- **Estilo preferido:** Visual e cinestésico.
+
+**Experiência com Computadores e Tecnologia:**
+- **Alfabetismo computacional:** Bom (Usuária frequente de redes sociais e sistemas básicos, mas não tem conhecimento técnico profundo).
+- **Experiência:** Mediano/casual (4 a 6 anos).
+- **Sistemas operacionais:** Windows.
+- **Hardware utilizado:** Computadores portáteis (notebook para trabalhos da faculdade) e dispositivos portáteis (celular, que é seu dispositivo principal).
+- **Software e ferramentas:** Navegadores móveis (Chrome/Safari), pacote Office básico, WhatsApp, Instagram e leitores de PDF.
+- **Experiência com produtos concorrentes:** Sim (CIEE, Nube, Vagas.com, Infojobs e grupos de WhatsApp).
+- **Hábitos de uso:** Acessa a plataforma principalmente pelo celular, nos intervalos das aulas ou no trajeto do ônibus.
+
+**Preferências e Descontentamentos:**
+- **Frustrações:** Maioria das plataformas foca em vagas de escritório (Administração, TI, Direito), dificultando filtrar vagas da Saúde. Além disso, odeia processos de cadastro que não são responsivos no celular.
+
+**Treinamento:**
+- **Valoriza treinamento?** Bastante (para sua área de estudo/prática). No entanto, **não** está disposta a investir tempo aprendendo a utilizar a plataforma de estágio (espera a simplicidade de uma rede social).
+
+**Motivação e Relacionamento:**
+- **Motivação para o trabalho:** Genuína vontade de ajudar pacientes e aprender técnicas reais (a motivação principal não é financeira).
+- **Interação social:** Gosta e precisa (núcleo do seu futuro trabalho envolve interação com pacientes e equipe multidisciplinar).
+- **Ambição:** Conseguir efetivação na clínica ou acumular carga horária prática.
+- **Idiomas e Jargões:** Português fluente e Inglês intermediário. Possui forte vocabulário médico/anatômico ("anamnese", "proximal", "ortopedia"). Espera que a plataforma entenda as especialidades da área da saúde.
+
+**Perguntas sobre o Sistema (Super Estágios):**
+- **O que acha do site?** "Acho legal e útil, mas às vezes tem muita informação junta na tela que acaba confundindo um pouco."
+- **O que mais gosta?** "Gosto muito da assistência e do suporte que o sistema dá com a documentação do estágio. Ajuda bastante a não se perder."
+- **Tempo de busca:** "Estou há 2 anos na faculdade. Comecei a procurar estágio agora para pegar experiência na parte clínica."
+- **Área e formato da vaga:** Saúde (clínicas e hospitais), presencial (fisioterapia é prática).
+- **O que mais incomoda?** "É um pouco ruim de mexer pelo celular, e as vagas da saúde se misturam com as vagas de escritório."
+- **Frustrações e ações tomadas:** "Sim, quando a página travou no meu 4G no ônibus. Fiquei sem paciência, desisti e fechei o site."
+- **Busca de vaga:** Prefere buscar pelo nome do curso (acha mais fácil).
+- **Menus e submenus:** "Acho que tem clique demais. Dava para ser uma coisa mais rápida e direta ao ponto."
+- **Rótulos dos menus:** "Acho normais, dá para entender bem o que cada botão faz."
+- **Layout:** "Acho um pouquinho poluído, queria que fosse mais limpo para ler no celular."
+- **Cores:** Tranquilas de visualizar.
+- **Texto:** "A descrição de algumas vagas é um texto gigante que cansa muito ler na tela pequena."
+- **Contraste/Elementos:** "Acho que os botões de clicar às vezes ficam pequenos demais na tela do celular."
+- **Funcionalidades faltantes:** "Um filtro bem melhor, focado só para as especialidades da área da saúde."
+- **Avaliação geral:** "É razoável. Resolve o meu problema, mas a busca pelo celular poderia melhorar bastante."
+
+### Análise dos Dados de IHC
+
+Com base nos dados coletados e nos fundamentos de Interação Humano-Computador (Barbosa e Silva, 2021), obtêm-se as seguintes análises sobre o perfil da usuária e a sua interação com o sistema:
+
+1. **Perfil e Contexto de Uso (Mobile-first e Uso Intermitente):**
+   A usuária possui um perfil de acesso primariamente móvel e contextualizado em situações de transição (ex: trajeto de ônibus, intervalos de aulas), muitas vezes dependendo de redes 4G instáveis. Isso exige que a interface seja **responsiva, leve e com tempos de carregamento curtos**. O relato de fechamento do site devido a travamentos evidencia que falhas de performance violam os objetivos de usabilidade de eficiência e satisfação.
+
+2. **Carga Cognitiva e Densidade de Informação:**
+   A usuária relatou que "tem muita informação junta na tela" e que descrições de vagas como "textos gigantes" geram fadiga em telas pequenas. Segundo os princípios de IHC, informações não essenciais ou mal estruturadas aumentam a carga cognitiva. O sistema deve focar na **visibilidade do status e minimalismo**, utilizando técnicas de escaneabilidade (ex: *bullet points*, negrito para salário, local e carga horária) para facilitar a leitura dinâmica.
+
+3. **Arquitetura da Informação e Navegação:**
+   A afirmação de que há "clique demais" indica problemas na profundidade da árvore de navegação e excesso de passos (fricção) para atingir os objetivos principais (encontrar e candidatar-se a uma vaga). A recomendação de IHC é achatar a navegação, apresentando atalhos e busca simplificada (por curso ou área de atuação médica/saúde). 
+
+4. **Necessidade de Especialização do Domínio (Jargão e Filtros):**
+   A usuária possui um jargão profissional muito rico e específico (áreas médicas/fisioterapêuticas) e sente frustração porque "as vagas da saúde se misturam com vagas de escritório". O sistema atualmente não fala a "linguagem do usuário" (heurística de Nielsen) nesse nicho. Implementar filtros avançados com vocabulário pertinente à área da saúde aumentará a compatibilidade entre o sistema e o mundo real.
+
+5. **Acessibilidade e Componentes Físicos:**
+   A percepção de que os botões "às vezes ficam pequenos demais na tela do celular" aponta para falhas na Lei de Fitts e nas diretrizes de acessibilidade para interfaces móveis (Touch Targets). É necessário redimensionar áreas de clique para proporções ergonômicas (no mínimo 44x44 CSS pixels) visando evitar erros de seleção (slips).
+
+<br>
+<br>
 
 <a id="referencias-bibliograficas"></a>
 # Referências bibliográficas:
