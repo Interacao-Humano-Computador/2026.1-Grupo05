@@ -4,6 +4,7 @@
 | :--- |  :--- |
 | Samuel Leite | [Introdução](#introducao) <br> [Perfil do Usuário ideal](#perfil-usuario) <br> [Referências Bibliográficas](#referencias-bibliograficas) <br> [Bibliografia](#bibliografia) <br> [Histórico de Versões](#historico-de-versoes) | | |
 | Mariana Martins | [Pefil do Usuário: Empresa Contratante](#perfil-usuario-empresa) <br> [Referências Bibliográficas](#referencias-bibliograficas) <br> [Histórico de Versões](#historico-de-versoes)| 
+| Pedro Henrique | [Perfil do Usuário: Administrador do Sistema](#perfil-usuario-adm) <br> [Histórico de Versões](#historico-de-versoes)| 
 
 
 
@@ -87,6 +88,45 @@ Com base nas diretrizes do livro de Interação Humano-Computador (IHC), um perf
 - **Vocabulário da Empresa:** utiliza comumente termos como: "Plano de Atividades", "Gestão dos Estagiários", "Supervisor de Estágio", "Processo Prático", "Renovação de Termo", "Rescisão", "Relatório de Atividades" e "Seguro de Vida".
 
 - **Expectativa de Interface:** Encontra-se uma linguagem profissional, direta e reta que transmita autoridade legal sobre as normas do Ministério do Trabalho e Educação.
+</div>
+
+
+
+<div style="text-align: center;"> 
+    <a id="perfil-usuario-adm"></a>
+    <h1> Perfil de Usuário Ideal: <br> Administrador do Sistema (Agente de Integração)
+</div>
+
+<div style="text-align: justify;">
+
+### 1. Dados Profissionais e Representação:
+- **Faixa Etária e Perfil:** Adultos (em média de 25 a 45 anos), profissionais com formação em Administração, Recursos Humanos, Direito ou áreas afins.
+- **O Usuário no Sistema:** Analistas de suporte operacionais, revisores de contratos, consultores de estágio e gestores da própria plataforma Super Estágios, que atuam na mediação (Backoffice).
+
+### 2. Conhecimento do Domínio (Regras de Estágio):
+- **Domínio Legal:** O usuário possui alto domínio e profundo conhecimento técnico da Lei do Estágio (Lei nº 11.788/2008), exigências do MEC e normas do Ministério do Trabalho.
+- **Obrigações e Compliance:** Entende todas as exigências burocráticas para garantir que os contratos não gerem passivos trabalhistas (verificação de carga horária máxima, necessidade de seguro contra acidentes pessoais e regularidade acadêmica do estudante).
+- **Papel do Sistema:** Sabe que a plataforma é a ferramenta oficial e central de auditoria, armazenamento e geração de documentações legais que resguardam as três partes (Empresa, Estudante e Instituição de Ensino).
+
+### 3. Objetivos (Finais e Instrumentais):
+- **Objetivos Principais:** Garantir a legalidade e fluidez nas contratações de estágio, mitigando riscos jurídicos para as empresas concedentes e resguardando os direitos dos estudantes.
+- **Objetivos no Sistema:** Homologar cadastros de novas empresas, aprovar e assinar Termos de Compromisso (TCE) e Termos Aditivos, emitir apólices de seguro, prestar suporte a usuários (estudantes/empresas) que enfrentam dificuldades e gerar relatórios gerenciais e de faturamento.
+
+### 4. Tarefas e Uso do Sistema:
+- **Tarefas Primárias:** Analisar e dar parecer (aprovar/recusar) em minutas de contratos, configurar convênios com novas instituições de ensino, realizar atendimento de chamados (tickets de suporte) e gerenciar a base de dados.
+- **Plataforma:** Utiliza quase que exclusivamente a interface Web em computadores desktop no ambiente corporativo (office ou home office). Necessita de painéis complexos, dashboards detalhados, ferramentas de busca avançada por IDs, filtros por status de contrato e suporte a ações em massa (bulk actions).
+
+### 5. Atitudes, Valores e Motivações:
+- **Motivação:** Produtividade e eficiência operacional. O trabalho exige análise de alto volume de dados, logo a motivação é manter a fila de aprovações (SLA) dentro do prazo estabelecido e evitar gargalos.
+- **Atitude em relação ao Processo:** Valoriza um sistema estável, com navegação rápida, ausência de bugs e ferramentas que automatizem verificações básicas (ex: o sistema travar contratos com mais de 30h semanais). Deseja reduzir cliques repetitivos.
+
+### 6. Idiomas e Jargões:
+- **Vocabulário Técnico:** Utiliza um vocabulário formal, jurídico e corporativo, incluindo termos como: "Concedente", "Agente de Integração", "Apólice de Seguro", "TCE" (Termo de Compromisso), "TA" (Termo Aditivo), "Termo de Rescisão", "SLA", "Compliance", "Homologação" e "Parte Concedente".
+- **Expectativa de Interface:** Exige que a plataforma utilize os termos legais corretos em todos os menus para evitar ambiguidades operacionais.
+</div>
+
+<br>
+<br>
 
 <a id="referencias-bibliograficas"></a>
 
@@ -119,3 +159,4 @@ BRASIL. Ministério do Trabalho e Emprego. Cartilha esclarecedora sobre a Lei do
 | :--- | :--- | :--- | :--- | :--- |
 | 01/05/2026 | 1.0 | Elaboração do artefato Perfil do usuário Ideal | Samuel Leite | Pedro Henrique |
 | 02/05/2026 | 2.0 | Elaboração do artefato Perfil do usuário "Empresa" | Mariana Martins | Luis Gustavo |
+| 03/05/2026 | 2.1 | Elaboração do artefato Perfil do usuário "Administrador do Sistema" | Pedro Henrique | Samuel Leite |
