@@ -5,7 +5,7 @@
 | :--- |  :--- |
 | Samuel Leite |  [Introdução](#introducao) <br> [Diagrama de decomposição HTA](#diagrama-hta) <br> [Tabela da Análise Hierárquica de Tarefas (HTA)](#tabela-hta) <br> [Referências Bilbiográficas](#referencias-bibliograficas) <br> [Bibliografia](#bibliografia) <br> [Histórico de versão](#historico-de-versoes) <br>| 
 | Pedro Henrique | [HTA para Assinatura Digital do TCE via Reconhecimento Facial](#hta-assinatura-facial) <br> [Diagrama de decomposição HTA - Assinatura Facial](#diagrama-hta-assinatura) <br> [Tabela da Análise Hierárquica de Tarefas (HTA) - Assinatura Facial](#tabela-hta-assinatura) |
-
+| Mariana Martins | [HTA para Cadastro de Nova Vaga](#hta-novavaga) <br> [Diagrama de decomposição HTA - Cadastro Nova Vaga](#diagrama-hta-novavaga) <br> [Tabela da Análise Hierárquica de Tarefas (HTA) - Cadastro Nova Vaga](#tabela-hta-novavaga) |
 
 <a id="introducao"></a>
 # Introdução
@@ -111,6 +111,45 @@
 <br>
 <br>
 <br>
+
+<a id="hta-novavaga"></a>
+# HTA para Cadastro de Nova Vaga no Sistema
+
+<div align="justify">
+    Esta seção apresenta a Análise Hierárquica de Tarefas (HTA) específica para a funcionalidade de Cadastro de Novas Vagas no sistema que integra candidatos e empresas. Esta análise foca em transformar o objetivo de alto nível, disponibilizar uma oportunidade de estágio em uma estrutura lógica de subobjetivos e operações fundamentais.
+</div>
+
+<a id="diagrama-hta-novavaga"></a>
+### Diagrama de Decomposição (HTA) - Cadastro de Nova Vaga
+
+O objetivo principal é o estado final onde a vaga está disponível para os estudantes.
+
+0. Cadastrar nova vaga de estágio
+1. Fornecer informações básicas (Título, área, descrição)
+2. Definir requisitos e competências (curso, semestre mínimo)
+3. Estabelecer condições da vaga (Bolsa, benefícios, carga horária)
+4. Revisar e publicar
+
+<a id="tabela-hta-novavaga"></a>
+### Tabela da Análise Hierárquica de Tarefas (HTA) - Novo Cadastro
+
+<p> A tabela a seguir apresenta os detalhes de operações, problemas e recomendações associados à funcionalidade de Novo Cadastro.
+Cada subobjetivo é alcançado por operações, que representam a unidade fundamental da análise, descritas por seus inputs e ações.
+<br>
+<br>
+
+
+| Objetivos/ações | Problemas e Recomendações |
+|---|---|
+| 1.1 Informar título da vaga | **Inputs:** Dados de identificação do cargo e área de atuação. <br> **Problema:** Títulos ambíguos ou muito genéricos que dificultam a busca do estudante. **Recomendação:** Sugerir títulos padrão baseados nas áreas comuns de mercado. |
+| 2.1 Selecionar competências | **Inputs:** Requisitos técnicos e comportamentais. <br> **Problema:** O excesso de opções pode gerar carga cognitiva desnecessária ao recrutador. <br> **Recomendação:** Agrupar competências por categorias e utilizar componentes de tags. |
+| 3.1 Definir remuneração | **Inputs:** Valores monetários da bolsa e lista de benefícios oferecidos. <br> **Problema:** Erros de digitação em valores monetários. <br>**Recomendação:** Utilizar máscaras de campo e avisos para vagas não remuneradas. |
+| 4.2 Confirmar publicação | **Inputs:** Formulário preenchido e revisão final dos dados inseridos. <br> **Problema:** Risco de publicação acidental de dados incompletos. <br> **Recomendação:** Apresentar um diálogo de confirmação com resumo dos dados antes da publicação. |
+
+<br>
+<br>
+<br>
+
 # Referências bibliográficas:
 
 >  [1] BARBOSA, S. D. J.; SILVA, B. S. da; SILVEIRA, M. S.; GASPARINI, I.; DARIN, T.; BARBOSA, G. D. J. **Interação Humano-Computador e Experiência do Usuário**. 1. ed. Rio de Janeiro: Autopublicação, 2021.
@@ -132,3 +171,4 @@
 | :--- | :--- | :--- | :--- | :--- |
 | 01/05/2026 | 1.0 | Elaboração do artefato Técnica de coleta de dados | Samuel Leite | Mariana Martins |
 | 03/05/2026 | 1.1 | Adição da HTA para Assinatura Digital do TCE via Reconhecimento Facial | Pedro Henrique | Samuel Leite |
+| 03/05/2026 | 1.2 | Adição da HTA para Cadastro de Nova Vaga | Mariana Martins | Luis Gustavo |
