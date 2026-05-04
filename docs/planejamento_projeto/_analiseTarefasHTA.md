@@ -5,6 +5,7 @@
 | :--- |  :--- |
 | Samuel Leite |  [Introdução](#introducao) <br> [Diagrama de decomposição HTA](#diagrama-hta) <br> [Tabela da Análise Hierárquica de Tarefas (HTA)](#tabela-hta) <br> [Referências Bilbiográficas](#referencias-bibliograficas) <br> [Bibliografia](#bibliografia) <br> [Histórico de versão](#historico-de-versoes) <br>| 
 | Pedro Henrique | [HTA para Assinatura Digital do TCE via Reconhecimento Facial](#hta-assinatura-facial) <br> [Diagrama de decomposição HTA - Assinatura Facial](#diagrama-hta-assinatura) <br> [Tabela da Análise Hierárquica de Tarefas (HTA) - Assinatura Facial](#tabela-hta-assinatura) |
+| Luis Gustavo | [HTA – Atualização de Perfil e Candidatura a Múltiplas Vagas](#hta-candidatura) <br> [Diagrama de Decomposição (HTA)](#diagrama-hta) <br> [Tabela da Análise Hierárquica de Tarefas (HTA)](#tabela-hta-candidatura) |
 
 
 <a id="introducao"></a>
@@ -108,6 +109,63 @@
 |5.1. Exibir confirmação de sucesso na autenticação| **Input:** Validação bem-sucedida.<br> **Ação:** Sistema mostra ícone de check e mensagem de sucesso.<br> **Feedback:** TCE assinado digitalmente.<br> **Problema:** Nenhum específico, mas garantir persistência.<br> **Recomendação:** Armazenar assinatura de forma segura e enviar confirmação por e-mail.|
 |5.2. Exibir alerta para tentar novamente em caso de falha| **Input:** Validação falhada.<br> **Ação:** Sistema mostra ícone de alerta e botão "Tentar Novamente".<br> **Feedback:** Redirecionamento para nova tentativa.<br> **Problema:** Falhas repetidas podem desmotivar.<br> **Recomendação:** Limitar tentativas (ex: 3) e oferecer alternativa após falhas.|
 
+
+<a id="hta-candidatura"></a>
+# HTA – Atualização de Perfil e Candidatura a Múltiplas Vagas
+
+<div align="justify">
+    Esta seção apresenta a Análise Hierárquica de Tarefas (HTA) 
+    para o cenário da persona Henrique Farias Costa, estudante 
+    com experiência prévia que deseja atualizar seu perfil na 
+    plataforma Super Estágios, comparar vagas disponíveis e 
+    se candidatar a múltiplas oportunidades simultaneamente.
+</div>
+
+<a id="diagrama-hta"></a>
+### Diagrama de Decomposição (HTA)
+
+0. Migrar para nova vaga de estágio (1>2>3)
+1. Atualizar perfil na plataforma (1>2+3)
+   - 1.1. Acessar área de edição de perfil
+   - 1.2. Adicionar experiência de estágio atual
+   - 1.3. Atualizar habilidades no perfil
+2. Comparar e candidatar-se a múltiplas vagas (1>2>3)
+   - 2.1. Buscar vagas com filtros avançados
+   - 2.2. Comparar detalhes de múltiplas vagas
+   - 2.3. Candidatar-se às vagas selecionadas (2.3.1+2.3.2)
+     - 2.3.1. Enviar candidatura para vaga 1
+     - 2.3.2. Enviar candidatura para vaga 2
+3. Acompanhar e formalizar contratação (1>2>3)
+   - 3.1. Monitorar painel de candidaturas ativas
+   - 3.2. Confirmar agendamento de entrevista
+   - 3.3. Formalizar documentação (3.3.1>3.3.2)
+     - 3.3.1. Enviar documentos de rescisão do TCE anterior
+     - 3.3.2. Assinar novo TCE eletronicamente
+
+<a id="tabela-hta-candidatura"></a>
+### Tabela da Análise Hierárquica de Tarefas (HTA) 
+Farias
+
+| Objetivos/ações | Problemas e Recomendações |
+|:---|:---|
+| 0. Migrar para nova vaga de estágio | **Input:** intenção de trocar de área de estágio, perfil já cadastrado e experiência prévia em mãos. **Feedback:** nova vaga formalizada com TCE assinado e TCE anterior rescindido. **Plano:** atualizar o perfil antes de buscar vagas, depois comparar, candidatar-se e acompanhar o processo. **Recomendação:** exibir notificação de boas-vindas ao usuário que retorna após período de inatividade, incentivando a atualização do perfil. |
+| 1. Atualizar perfil na plataforma 1>2+3 | **Plano:** acessar a edição de perfil primeiro e, em seguida, adicionar experiência e atualizar habilidades em paralelo. |
+| 1.1. Acessar área de edição de perfil | **Problema:** o link para edição de perfil pode estar em local pouco visível para usuários que acessam a plataforma esporadicamente. **Recomendação:** adicionar botão de atalho "Atualizar perfil" no painel inicial do estudante. |
+| 1.2. Adicionar experiência de estágio atual | **Problema:** o sistema pode não permitir adicionar experiência de estágio em andamento (sem data de término). **Recomendação:** permitir o cadastro de experiências em andamento com campo de data de término opcional. |
+| 1.3. Atualizar habilidades no perfil | **Recomendação:** sugerir automaticamente habilidades com base no curso e na experiência cadastrada, para agilizar o preenchimento. |
+| 2. Comparar e candidatar-se a múltiplas vagas 1>2>3 | **Plano:** buscar vagas com filtros, comparar as que mais interessam e se candidatar sem reescrever informações. |
+| 2.1. Buscar vagas com filtros avançados | **Problema:** filtros básicos podem não atender um usuário experiente que busca critérios específicos como área de atuação em gestão de projetos e faixa mínima de bolsa. **Recomendação:** disponibilizar filtros avançados por área de atuação específica, valor mínimo de bolsa e porte da empresa. |
+| 2.2. Comparar detalhes de múltiplas vagas | **Problema:** o site não possui funcionalidade nativa de comparação lado a lado entre vagas, obrigando o usuário a abrir múltiplas abas. **Recomendação:** implementar funcionalidade de "Favoritar vagas" com visualização comparativa dos itens salvos. |
+| 2.3. Candidatar-se às vagas selecionadas 2.3.1+2.3.2 | **Plano:** candidatar-se às duas vagas em paralelo, aproveitando o perfil já atualizado. **Recomendação:** habilitar candidatura múltipla a partir da lista de favoritos, sem necessidade de acessar cada vaga individualmente. |
+| 2.3.1. Enviar candidatura para vaga 1 | **Ação:** o sistema utiliza os dados do perfil atualizado para submeter a candidatura. **Feedback:** mensagem de confirmação de candidatura enviada. |
+| 2.3.2. Enviar candidatura para vaga 2 | **Ação:** idem à tarefa anterior. **Problema:** o usuário pode se perder ao acompanhar múltiplas candidaturas ativas. **Recomendação:** identificar cada candidatura com nome da empresa e data de envio no painel de acompanhamento. |
+| 3. Acompanhar e formalizar contratação 1>2>3 | **Plano:** monitorar o painel até ser convocado para entrevista, confirmar o agendamento e, após aprovação, formalizar a documentação. |
+| 3.1. Monitorar painel de candidaturas ativas | **Recomendação:** enviar notificações por e-mail e push quando houver atualização de status em qualquer candidatura ativa. |
+| 3.2. Confirmar agendamento de entrevista | **Recomendação:** exibir confirmação com data, horário e formato da entrevista (presencial ou online) de forma clara, com opção de adicionar ao calendário. |
+| 3.3.1. Enviar documentos de rescisão do TCE anterior | **Problema:** o usuário pode não saber quais documentos são necessários para rescindir o TCE atual antes de assinar o novo. **Recomendação:** exibir checklist de documentos necessários para rescisão e orientar o usuário com links para modelos. |
+| 3.3.2. Assinar novo TCE eletronicamente | **Problema:** o usuário pode sair da plataforma e não saber como retornar após assinar no GOV.BR. **Recomendação:** usar redirecionamento automático de volta à tela de confirmação após a assinatura no GOV.BR, igual ao fluxo já recomendado na análise anterior. |
+
+
 <br>
 <br>
 <br>
@@ -132,3 +190,4 @@
 | :--- | :--- | :--- | :--- | :--- |
 | 01/05/2026 | 1.0 | Elaboração do artefato Técnica de coleta de dados | Samuel Leite | Mariana Martins |
 | 03/05/2026 | 1.1 | Adição da HTA para Assinatura Digital do TCE via Reconhecimento Facial | Pedro Henrique | Samuel Leite |
+| 03/05/2026 | 1.2 | Adição da HTA para Atualização de Perfil e Candidatura  | Luis Gustavo | Mariana Martins |

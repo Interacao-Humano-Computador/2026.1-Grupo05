@@ -147,6 +147,7 @@ O diagrama a seguir representa graficamente a árvore de tarefas concorrentes pa
 
 | Data | Versão | Descrição | Autor | Revisor |
 | :--- | :--- | :--- | :--- | :--- |
-| 03/05/2026 | 1.2 | Padronização e expansão da CTT para Assinatura Digital do TCE via Reconhecimento Facial com cenário de interação conectado à Persona 2 | Pedro Henrique | Samuel Leite |
 | 01/05/2026 | 1.0 | Elaboração do artefato Técnica de coleta de dados | Samuel Leite | Mariana Martins |
+| 03/05/2026 | 1.2 | Padronização e expansão da CTT para Assinatura Digital do TCE via Reconhecimento Facial com cenário de interação conectado à Persona 2 | Pedro Henrique | Samuel Leite |
 | 03/05/2026 | 1.1 | Adição da CTT para Assinatura Digital do TCE via Reconhecimento Facial | Pedro Henrique | Samuel Leite |
+| 03/05/2026 | 1.3 | Adição da CTT para Atualização de Perfil e Candidatura | Luis Gustavo | Mariana Martins |
