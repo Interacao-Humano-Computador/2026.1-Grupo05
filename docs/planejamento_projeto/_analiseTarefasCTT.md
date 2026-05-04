@@ -120,9 +120,8 @@ O Diagrama 1 a seguir represeta a análise de tarefas realizadas pela persona Ca
 <a id="diagrama-ctt-novavaga"></a>
 ### Diagrama de análise de tarefas CTT - Nova Vaga
 O diagrama a seguir representa graficamente a árvore de tarefas concorrentes para a Criação de uma Nova Vaga:
-<div align="center">
-  <img src="" width="100%">
-</div>
+
+
 <div align="center"> <p> <i><b>Figura 2:</b> Diagrama CTT para Nova Vaga. Fonte: Elaboração própria</i> </p> </div>
 
 
